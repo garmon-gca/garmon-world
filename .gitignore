@@ -1,0 +1,28 @@
+# Local environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local caches and reports
+cache/
+reports/
+archive/
+nppBackup/
+
+# Private workbench material that should not be copied into this repository
+source_materials/
+tools/
+people/
+posts/
+letters/
+proposals/
+evidence/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
