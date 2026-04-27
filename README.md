@@ -20,6 +20,7 @@ This repository currently contains:
 
 - public-safe project notes;
 - boundaries and non-claims;
+- one public-safe evidence note;
 - questions for technical review;
 - an outline for a future demo.
 
@@ -88,6 +89,7 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [For reviewers](docs/FOR_REVIEWERS.md)
 - [Demo brief](docs/DEMO_BRIEF.md)
 - [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
+- [Evidence note: first safe contact](docs/EVIDENCE_NOTE_FIRST_SAFE_CONTACT.md)
 - [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
 - [Review questions](docs/REVIEW_QUESTIONS.md)
 - [Roadmap](docs/ROADMAP.md)
