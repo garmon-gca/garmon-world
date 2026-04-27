@@ -55,8 +55,12 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 
 - [Project overview](docs/PROJECT_OVERVIEW.md)
 - [Public boundaries](docs/PUBLIC_BOUNDARIES.md)
+- [FAQ](docs/FAQ.md)
+- [For reviewers](docs/FOR_REVIEWERS.md)
+- [Demo brief](docs/DEMO_BRIEF.md)
 - [Review questions](docs/REVIEW_QUESTIONS.md)
 - [Roadmap](docs/ROADMAP.md)
+- [Contact](docs/CONTACT.md)
 
 ## Contact
 
