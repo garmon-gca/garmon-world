@@ -1,5 +1,7 @@
 # One-Minute Example
 
+Note: this is an explanation example, not an interactive demo.
+
 ## The Problem
 
 Most LLM agents can produce good text, but it is often hard to see what behavior was selected before the text was written.

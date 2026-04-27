@@ -8,14 +8,15 @@ This roadmap is intentionally small.
 - Explain the project in careful public language.
 - Publish boundaries and review questions.
 
-## Step 2: Public-Safe Demo Plan
+## Step 2: Public Research Preview And Demo Plan
 
 - Design a small demo.
+- Keep the repository clear that this stage is not an interactive demo.
 - Keep private internals out of the demo.
 - Define what can be logged safely.
 - Define what the demo does and does not show.
 
-## Step 3: Reproducible Demo
+## Step 3: Minimal Reproducible Demo Artifact
 
 - Add a minimal runnable demo when it is ready.
 - Make the setup understandable.

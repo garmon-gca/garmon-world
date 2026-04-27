@@ -5,6 +5,7 @@ This repository is public-facing. It should stay modest, readable, and safe.
 ## Safe To Discuss
 
 - Garmon as an early R&D prototype.
+- Garmon as a public research preview, not an interactive demo.
 - The separation between LLM speech and behavior preparation.
 - Context traces and behavior checks at a high level.
 - Public demo planning.

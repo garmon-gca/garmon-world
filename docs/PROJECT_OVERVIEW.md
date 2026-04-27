@@ -20,6 +20,12 @@ Simple shape:
 User input -> behavior preparation -> selected behavior -> LLM speech -> final answer
 ```
 
+## Public Stage
+
+Garmon is currently in a pre-demo research stage.
+
+This repository is a public research preview: it explains the idea, boundaries, and planned path toward a small reviewable demo. It is not yet an interactive demo.
+
 ## Why This May Matter
 
 This separation may be useful for:

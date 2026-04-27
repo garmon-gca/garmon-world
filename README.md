@@ -42,13 +42,14 @@ For the short standalone version, see [One-minute example](docs/ONE_MINUTE_EXAMP
 
 ## Current Status
 
+- Public research preview: yes.
+- Interactive public demo: not yet.
 - Public docs: yes.
-- Runnable public demo: not yet.
-- Private prototype: exists, but is not published here.
+- Internal prototype: exists, but this repository only contains public-facing materials.
 - Public evidence: limited public-safe note.
 - Next step: minimal reproducible demo artifact.
 
-This repository is a quiet public entry point for understanding the project and shaping the first reviewable demo.
+This repository is a public research preview. It explains the idea, boundaries, and path toward a small reviewable demo. It is not yet an interactive demo for user conversation with Garmon.
 
 ## What To Read First
 

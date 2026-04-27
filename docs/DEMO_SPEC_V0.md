@@ -2,6 +2,8 @@
 
 Status: public-safe specification, not a runnable demo.
 
+This specification describes a future reviewable demo artifact. It is not an interactive product demo and does not provide user interaction with Garmon.
+
 This document turns the first demo idea into a concrete review target.
 
 The goal is to make the repository less silent without exposing private implementation details or claiming more than the current public materials can support.
