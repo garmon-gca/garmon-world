@@ -17,6 +17,7 @@ The repository contains:
 - English FAQ;
 - public glossary;
 - first public demo plan;
+- demo specification V0;
 - demo brief;
 - first public-safe evidence note;
 - review questions;
@@ -36,7 +37,7 @@ The public layer is limited to:
 - cautious non-claims;
 - public-safe summaries;
 - review questions;
-- future demo planning;
+- future demo planning and a first demo specification;
 - guidance for calm feedback.
 
 The public layer does not include:

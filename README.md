@@ -22,7 +22,8 @@ This repository currently contains:
 - boundaries and non-claims;
 - one public-safe evidence note;
 - questions for technical review;
-- an outline for a future demo.
+- an outline for a future demo;
+- a first public-safe demo specification.
 
 It does not yet contain a runnable public demo.
 
@@ -40,8 +41,9 @@ If you are new to the project, start with:
 1. [Project overview](docs/PROJECT_OVERVIEW.md)
 2. [Public boundaries](docs/PUBLIC_BOUNDARIES.md)
 3. [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
-4. [For reviewers](docs/FOR_REVIEWERS.md)
-5. [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
+4. [Demo spec V0](docs/DEMO_SPEC_V0.md)
+5. [For reviewers](docs/FOR_REVIEWERS.md)
+6. [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
 
 The most useful feedback right now is about clarity, safety of claims, and how to make the first demo easy to review.
 
@@ -98,6 +100,7 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [For reviewers](docs/FOR_REVIEWERS.md)
 - [Demo brief](docs/DEMO_BRIEF.md)
 - [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
+- [Demo spec V0](docs/DEMO_SPEC_V0.md)
 - [Evidence note: first safe contact](docs/EVIDENCE_NOTE_FIRST_SAFE_CONTACT.md)
 - [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
 - [Public readiness review](docs/PUBLIC_READINESS_REVIEW.md)
