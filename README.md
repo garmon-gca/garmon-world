@@ -31,6 +31,7 @@ It does not yet contain a runnable public demo.
 Русскоязычная входная страница:
 
 - [Garmon World: русская входная страница](docs/RU_OVERVIEW.md)
+- [Публичный FAQ](docs/PUBLIC_FAQ_RU.md)
 
 ## What To Review First
 
@@ -92,11 +93,15 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [Project overview](docs/PROJECT_OVERVIEW.md)
 - [Public boundaries](docs/PUBLIC_BOUNDARIES.md)
 - [FAQ](docs/FAQ.md)
+- [Публичный FAQ на русском](docs/PUBLIC_FAQ_RU.md)
+- [Public glossary](docs/GLOSSARY_PUBLIC.md)
 - [For reviewers](docs/FOR_REVIEWERS.md)
 - [Demo brief](docs/DEMO_BRIEF.md)
 - [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
 - [Evidence note: first safe contact](docs/EVIDENCE_NOTE_FIRST_SAFE_CONTACT.md)
 - [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
+- [Public readiness review](docs/PUBLIC_READINESS_REVIEW.md)
+- [Opening post draft](docs/OPENING_POST_DRAFT.md)
 - [Review questions](docs/REVIEW_QUESTIONS.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Contact](docs/CONTACT.md)
