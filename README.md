@@ -33,6 +33,7 @@ If you are new to the project, start with:
 2. [Public boundaries](docs/PUBLIC_BOUNDARIES.md)
 3. [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
 4. [For reviewers](docs/FOR_REVIEWERS.md)
+5. [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
 
 The most useful feedback right now is about clarity, safety of claims, and how to make the first demo easy to review.
 
@@ -87,6 +88,7 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [For reviewers](docs/FOR_REVIEWERS.md)
 - [Demo brief](docs/DEMO_BRIEF.md)
 - [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
+- [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
 - [Review questions](docs/REVIEW_QUESTIONS.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Contact](docs/CONTACT.md)
