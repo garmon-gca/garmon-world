@@ -26,6 +26,12 @@ This repository currently contains:
 
 It does not yet contain a runnable public demo.
 
+## Russian Overview
+
+Русскоязычная входная страница:
+
+- [Garmon World: русская входная страница](docs/RU_OVERVIEW.md)
+
 ## What To Review First
 
 If you are new to the project, start with:
@@ -94,6 +100,9 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [Review questions](docs/REVIEW_QUESTIONS.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Contact](docs/CONTACT.md)
+- [Contributing](CONTRIBUTING.md)
+- [Security](SECURITY.md)
+- [License status](docs/LICENSE_STATUS.md)
 
 ## Contact
 
