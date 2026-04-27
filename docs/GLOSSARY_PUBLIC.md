@@ -8,7 +8,7 @@ It avoids private implementation details.
 
 The public term for the inner background from which Garmon reads an event.
 
-This repository does not publish the private mechanism behind that background.
+This does not mean a published biological simulation or a human-like body. This repository does not publish the private mechanism behind that background.
 
 ## Body-born meaning
 
@@ -16,17 +16,25 @@ The meaning an event receives before final speech.
 
 In Garmon World, this is the central public idea: the request is not only text to process, but an event that can be read before the LLM writes final words.
 
+This is a public research term for a high-level event-reading step. It is not a claim of biological life, subjective experience, or a finished autonomous system.
+
 ## Embodied event meaning
 
 A public-safe way to describe what the event calls for, such as lowering pressure, keeping contact without pressure, or avoiding escalation.
 
 It is a high-level description, not a private mechanism.
 
+The word "embodied" is used carefully here. It points to the project framing, not to a claim that Garmon has a human body.
+
+It should not be treated as a fixed label, a command, or a proof of the private internal path.
+
 ## Response direction
 
 The public name for the direction that final speech should follow.
 
 It is not a claim that the whole private path is published.
+
+It is also not the same as final speech. The LLM speech layer still writes the final words.
 
 ## LLM speech layer
 
@@ -45,6 +53,8 @@ It should be readable, modest, and safe to show. It should not include private f
 A small example that another person can inspect.
 
 For this repository, reviewable means: the event, final answer, limits, and public-safe summary are clear enough for calm technical feedback.
+
+It should remain small: enough to ask a technical question, not enough to imply a large conclusion.
 
 ## Demo plan
 

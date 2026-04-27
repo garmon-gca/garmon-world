@@ -7,6 +7,7 @@ This repository is public-facing. It should stay modest, readable, and safe.
 - Garmon as an early R&D prototype.
 - Garmon as a public research preview, not an interactive demo.
 - Body-born meaning at a high level.
+- Event reading as a public review surface, not as a command or private mechanism.
 - The LLM as a speech layer.
 - The difference between an event-reading step and final wording.
 - Public demo planning.

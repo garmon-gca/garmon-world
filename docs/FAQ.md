@@ -6,17 +6,23 @@ Garmon is an early research prototype for studying body-born meaning before LLM 
 
 The public idea is simple: the LLM writes the final words, while the project studies the step where an event receives meaning before those words are written.
 
+Here, "body-born meaning" means a public, high-level event-reading step before LLM speech. It is not a claim of biological life or subjective experience.
+
 ## Is Garmon a chatbot?
 
 Not exactly.
 
 A chatbot usually centers on conversation. Garmon is more focused on what happens before speech appears.
 
+The repository is also not an interactive demo yet. It is a public research preview.
+
 ## Is Garmon a new language model?
 
 No.
 
 Garmon does not train a new base model. It studies the path around an LLM speech layer: visible event reading, boundaries, response direction, and reviewable public examples.
+
+This can be relevant to AI safety, agent design, and LLM-system review, but Garmon is not presented here as a finished agent or product.
 
 ## Is this a finished product?
 

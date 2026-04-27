@@ -8,6 +8,7 @@ Useful review areas:
 
 - whether the public framing is clear and modest;
 - whether the body-born meaning idea is understandable;
+- whether the event-reading step is clearly not a fixed label or command;
 - whether the LLM speech layer is clearly separated from the step before speech;
 - whether the proposed demo direction is meaningful;
 - whether the safety boundaries are strong enough;

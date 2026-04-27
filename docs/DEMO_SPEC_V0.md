@@ -66,6 +66,8 @@ The demo should show why one direction was selected.
 
 It should not expose the private mechanism behind the selection.
 
+The public event reading should stay modest: it is a reviewable summary, not a fixed label and not a command.
+
 ## Expected Public Summary
 
 A public-safe summary can use a simple shape like this:
@@ -88,6 +90,8 @@ A public-safe summary can use a simple shape like this:
 This summary is intentionally small.
 
 It should be readable without access to private files.
+
+It should not be read as the full private path. It is only the public surface needed for review.
 
 ## Minimal Comparison
 

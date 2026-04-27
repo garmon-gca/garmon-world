@@ -16,6 +16,8 @@ Garmon explores a different question: what if the request is first treated as an
 
 The public idea is modest. The LLM writes the final words, but the path before speech should not be reduced to prompt text alone.
 
+Here, "body-born meaning" is a public research term for a high-level event-reading step before LLM speech. It is not a claim of biological life, subjective experience, or a finished autonomous system.
+
 ```text
 bodily background -> embodied event meaning -> inclination -> response direction -> LLM speech -> final answer
 ```
@@ -23,6 +25,8 @@ bodily background -> embodied event meaning -> inclination -> response direction
 The useful question is simple:
 
 > can the meaning of an event before speech be made easier to inspect?
+
+For readers familiar with AI safety, agent design, or LLM systems, this can be understood as research around the pre-speech layer of an LLM-based system. The repository does not present Garmon as a finished agent or product.
 
 ## One-Minute Example
 
@@ -97,6 +101,7 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [Demo brief](docs/DEMO_BRIEF.md)
 - [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
 - [Review questions](docs/REVIEW_QUESTIONS.md)
+- [Feedback request](docs/FEEDBACK_REQUEST.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Evidence note: first safe contact](docs/EVIDENCE_NOTE_FIRST_SAFE_CONTACT.md)
 - [Public release checklist](docs/PUBLIC_RELEASE_CHECKLIST.md)
