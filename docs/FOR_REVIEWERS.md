@@ -7,7 +7,8 @@ This page is for technical readers who want to understand what can be reviewed w
 Useful review areas:
 
 - whether the public framing is clear and modest;
-- whether the separation between speech and behavior preparation is understandable;
+- whether the body-born meaning idea is understandable;
+- whether the LLM speech layer is clearly separated from the step before speech;
 - whether the proposed demo direction is meaningful;
 - whether the safety boundaries are strong enough;
 - whether the evaluation questions are testable;
@@ -17,7 +18,7 @@ Useful review areas:
 
 The central public question is:
 
-> can an LLM-based agent show more reviewable behavior when the final speech is separated from a small runtime layer that prepares behavior?
+> can a small public example make the meaning of an event before final LLM speech easier to inspect?
 
 This is not a request to accept a conclusion. It is a request to help shape a better test.
 
@@ -27,8 +28,8 @@ Helpful feedback includes:
 
 - what a minimal demo should show;
 - what a minimal demo should not claim;
-- what public logs should include;
-- what public logs should avoid;
+- what public summaries should include;
+- what public summaries should avoid;
 - what comparison tests would be fair;
 - what wording would be clearer or safer.
 
@@ -48,4 +49,4 @@ This repository does not yet provide:
 2. Read `docs/PUBLIC_BOUNDARIES.md`.
 3. Read `docs/DEMO_BRIEF.md`.
 4. Check whether the demo plan would be understandable to an outside engineer.
-5. Suggest one small test that could make the behavior easier to evaluate.
+5. Suggest one small test that could make the event-reading step easier to evaluate.

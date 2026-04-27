@@ -9,7 +9,7 @@ The best contact style is calm technical feedback, not hype and not pressure.
 You can reach out if you want to discuss:
 
 - how to make a small demo more reproducible;
-- how to evaluate behavior changes in LLM-based agents;
+- how to evaluate the event-reading step before LLM speech;
 - how to keep public claims modest;
 - how to write safer technical explanations;
 - relevant papers, projects, or benchmarks.
@@ -18,7 +18,7 @@ You can reach out if you want to discuss:
 
 A useful first message can be simple:
 
-> I read the Garmon public notes. I am interested in the review question around LLM speech and behavior preparation. Here is one suggestion or question.
+> I read the Garmon public notes. I am interested in the review question around event meaning before LLM speech. Here is one suggestion or question.
 
 ## What To Avoid
 

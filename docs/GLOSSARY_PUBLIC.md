@@ -4,29 +4,47 @@ This glossary explains public terms used in Garmon World.
 
 It avoids private implementation details.
 
+## Bodily background
+
+The public term for the inner background from which Garmon reads an event.
+
+This repository does not publish the private mechanism behind that background.
+
+## Body-born meaning
+
+The meaning an event receives before final speech.
+
+In Garmon World, this is the central public idea: the request is not only text to process, but an event that can be read before the LLM writes final words.
+
+## Embodied event meaning
+
+A public-safe way to describe what the event calls for, such as lowering pressure, keeping contact without pressure, or avoiding escalation.
+
+It is a high-level description, not a private mechanism.
+
+## Response direction
+
+The public name for the direction that final speech should follow.
+
+It is not a claim that the whole private path is published.
+
 ## LLM speech layer
 
 The part of the system where an LLM writes the final text shown to a user.
 
-In Garmon World, the public idea is that final text and behavior preparation should be discussed as different concerns.
+In Garmon World, final text and the meaning-before-speech step are discussed as different concerns.
 
-## Behavior preparation
-
-The public term for the step before final text is written.
-
-It means preparing what kind of response or action is appropriate, without treating the prompt text as the only source of behavior.
-
-## Public-safe trace
+## Public-safe summary
 
 A small public summary of what happened in a run or review.
 
 It should be readable, modest, and safe to show. It should not include private files, local paths, raw logs, or exact private implementation details.
 
-## Reviewable behavior
+## Reviewable public example
 
-Behavior that can be inspected by another person.
+A small example that another person can inspect.
 
-For this repository, reviewable behavior means: the input, output, limits, and public-safe summary are clear enough for calm technical feedback.
+For this repository, reviewable means: the event, final answer, limits, and public-safe summary are clear enough for calm technical feedback.
 
 ## Demo plan
 

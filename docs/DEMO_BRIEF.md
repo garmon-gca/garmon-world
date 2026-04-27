@@ -6,20 +6,20 @@ The demo is not published yet. This document describes the intended direction.
 
 ## Goal
 
-The goal is to show a small behavior difference in a controlled setting, while keeping the private implementation out of the public repository.
+The goal is to show one small body-born meaning step in a controlled setting, while keeping the private implementation out of the public repository.
 
 The demo should help answer:
 
-> did the agent's behavior change in a reviewable way, or did the LLM only produce different wording?
+> did the event receive a reviewable public reading before final LLM speech, or did the system only rewrite text?
 
 ## What The Demo Should Show
 
 A useful public demo should show:
 
-- the user-facing prompt or task;
+- the visible event or task;
 - the final answer;
-- a public-safe trace of the behavior step;
-- a comparison between two close options;
+- a public-safe note about the event reading;
+- a comparison between two close response directions;
 - a clear note about what the result does and does not show.
 
 ## What The Demo Should Not Show
@@ -37,9 +37,9 @@ The demo should not expose:
 
 The public output should be small and readable:
 
-- a short task;
+- a short event;
 - the selected answer;
-- a public-safe trace summary;
+- a public-safe summary of the event reading;
 - a short explanation of the limits;
 - a reproducible command or script when ready.
 

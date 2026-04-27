@@ -10,10 +10,10 @@ This roadmap is intentionally small.
 
 ## Step 2: Public Research Preview And Demo Plan
 
-- Design a small demo.
+- Design a small demo around event meaning before speech.
 - Keep the repository clear that this stage is not an interactive demo.
 - Keep private internals out of the demo.
-- Define what can be logged safely.
+- Define what can be summarized safely.
 - Define what the demo does and does not show.
 
 ## Step 3: Minimal Reproducible Demo Artifact
@@ -35,4 +35,4 @@ This roadmap is intentionally small.
 - public API;
 - commercial deployment;
 - large community promises;
-- strong claims about the nature of the agent.
+- strong claims about the nature of the system.

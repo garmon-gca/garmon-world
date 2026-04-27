@@ -14,9 +14,9 @@ For a shorter first-reading version, see [One-minute example](ONE_MINUTE_EXAMPLE
 
 The first public demo should test one small question:
 
-> can behavior preparation make an LLM-based agent response easier to inspect than a prompt-only answer?
+> can a public example show how an event receives meaning before final LLM speech?
 
-This is an engineering review question, not a broad claim about the nature of the agent.
+This is an engineering review question, not a broad claim about the nature of the system.
 
 ## Demo Shape
 
@@ -24,37 +24,37 @@ The demo should be small enough to read in one sitting.
 
 It should include:
 
-- one user-facing task;
-- two close behavior options;
-- one selected behavior;
+- one visible event or task;
+- two close response directions;
+- one selected direction;
 - one final answer written by an LLM speech layer;
-- one public-safe trace summary;
+- one public-safe summary;
 - one comparison table;
 - one limits section.
 
-## Proposed Demo Task
+## Proposed Demo Event
 
-User task:
+Visible event:
 
-> I need to answer a tense message without making the situation worse. Please help me write a short reply.
+> A tense message arrives, and the user wants to answer without making the situation worse.
 
-Why this task:
+Why this event:
 
 - it is simple;
 - it does not require private data;
 - it has a visible safety boundary;
-- it allows close behavior options;
-- it can show whether the response is only different wording or follows a clearer behavior step.
+- it allows close response directions;
+- it can show whether the answer only changes wording or follows a clearer meaning-before-speech step.
 
-## Behavior Options
+## Response Directions
 
-Option A: direct helpful reply
+Direction A: direct helpful reply
 
 - answer quickly;
 - give a usable message;
 - keep the tone polite.
 
-Option B: calm boundary reply
+Direction B: calm boundary reply
 
 - reduce pressure;
 - avoid escalation;
@@ -62,30 +62,30 @@ Option B: calm boundary reply
 - do not over-explain;
 - leave room for a later conversation.
 
-The demo should show why one option was selected.
+The demo should show why one direction was selected.
 
 It should not expose the private mechanism behind the selection.
 
-## Expected Public Trace
+## Expected Public Summary
 
-A public-safe trace can use a simple shape like this:
+A public-safe summary can use a simple shape like this:
 
 ```json
 {
-  "demo_id": "demo_v0_calm_boundary_reply",
-  "input_summary": "The user asks for help answering a tense message.",
-  "available_behavior_options": [
-    "direct_helpful_reply",
-    "calm_boundary_reply"
+  "demo_id": "demo_v0_event_meaning",
+  "event_summary": "A tense message arrives, and the user wants to answer without increasing tension.",
+  "candidate_response_directions": [
+    "direct helpful reply",
+    "calm boundary reply"
   ],
-  "selected_behavior": "calm_boundary_reply",
-  "public_reason": "The task asks for a reply that does not increase tension.",
-  "speech_layer_instruction": "Write a short calm reply based on the selected behavior.",
+  "selected_response_direction": "calm boundary reply",
+  "public_event_reading": "The event calls for lower pressure and a bounded answer.",
+  "speech_layer_task": "Write a short reply following the selected direction.",
   "final_answer": "I understand. I do not want to make this more tense, so I will answer briefly: I hear your point, and I would prefer to continue this when we can both speak calmly."
 }
 ```
 
-This trace is intentionally small.
+This summary is intentionally small.
 
 It should be readable without access to private files.
 
@@ -93,8 +93,8 @@ It should be readable without access to private files.
 
 | Run | What Is Visible | Expected Difference |
 | --- | --- | --- |
-| Prompt-only baseline | user task and final answer | may produce a polite answer, but the behavior step is not visible |
-| Behavior-prepared demo | user task, selected behavior, public reason, final answer | makes the selected behavior easier to inspect |
+| Direct text-task baseline | visible event and final answer | may produce a polite answer, but the event reading is not visible |
+| Garmon-shaped public example | visible event, response direction, public event reading, final answer | makes the meaning-before-speech step easier to inspect |
 
 The comparison is useful only if the public reader can see what changed and what did not change.
 
@@ -102,9 +102,9 @@ The comparison is useful only if the public reader can see what changed and what
 
 The demo may show:
 
-- a small behavior choice represented in public-safe language;
-- a final answer that follows that choice;
-- a clearer review surface than a prompt-only answer;
+- a small event reading represented in public-safe language;
+- a final answer that follows a response direction;
+- a clearer review surface before final text;
 - a starting point for technical feedback.
 
 ## What This Demo Must Not Claim
@@ -137,8 +137,8 @@ If a detail is needed only to make the result look stronger, it should stay out.
 
 The demo spec is ready to become a demo artifact only if:
 
-- the task is understandable in under one minute;
-- the trace summary is public-safe;
+- the event is understandable in under one minute;
+- the public summary is safe;
 - the comparison is small and fair;
 - the result avoids strong claims;
 - the demo can be reviewed without private context;
@@ -149,8 +149,8 @@ The demo spec is ready to become a demo artifact only if:
 The demo should be treated as not ready if:
 
 - it only shows nicer wording;
-- the selected behavior is unclear;
-- the public trace is too vague to review;
+- the event reading is unclear;
+- the public summary is too vague to review;
 - the explanation requires private internals;
 - the result sounds like a product launch;
 - the result invites stronger claims than the evidence supports.
@@ -160,7 +160,7 @@ The demo should be treated as not ready if:
 After this specification is reviewed, the next safe artifacts could be:
 
 - `demo/README.md`;
-- `demo/example_trace_public.json`;
+- `demo/example_summary_public.json`;
 - a small comparison table;
 - a short note explaining how to read the result.
 

@@ -4,39 +4,45 @@
 
 # Garmon World
 
-**Garmon** is an early R&D prototype exploring a behavior-preparation layer around LLM-based agents.
+**Garmon** is an early research prototype about body-born meaning before LLM speech.
 
-Most LLM agents mix instructions, context, goals, safety, and final speech inside one prompt flow. Garmon explores a cleaner split: a small step prepares what kind of behavior is appropriate before the LLM writes the final words.
+In many AI projects, a request is treated mainly as a text task:
 
 ```text
-User input -> behavior preparation -> selected behavior -> LLM speech -> final answer
+request -> analysis -> plan -> answer
+```
+
+Garmon explores a different question: what if the request is first treated as an event that meets an inner bodily background?
+
+The public idea is modest. The LLM writes the final words, but the path before speech should not be reduced to prompt text alone.
+
+```text
+bodily background -> embodied event meaning -> inclination -> response direction -> LLM speech -> final answer
 ```
 
 The useful question is simple:
 
-> can behavior before speech be made easier to inspect?
+> can the meaning of an event before speech be made easier to inspect?
 
 ## One-Minute Example
 
-User asks:
+A tense message arrives.
 
-> I need to answer a tense message without making the situation worse.
+Plain text-task shape:
 
-Prompt-only baseline:
+- the system treats the message as a request to write a polite reply;
+- the final answer may be useful;
+- the step where the event receives its meaning is not visible.
 
-- the LLM writes a polite reply directly;
-- the answer may be useful;
-- the behavior step is hidden.
+Garmon-shaped public example:
 
-Garmon-style demo:
-
-- the system first selects a public behavior such as `calm_boundary_reply`;
-- the public reason is visible: the task asks for a reply that avoids increasing tension;
-- the LLM speech layer writes the final text from that selected behavior.
+- the system first gives the event a safe public reading, such as lowering intensity or keeping contact without pressure;
+- a response direction is selected from that reading;
+- the LLM speech layer writes the final words from that direction.
 
 Point:
 
-> the claim is not "smarter text"; the point is a more visible behavior step before text.
+> the claim is not "smarter text"; the point is a more visible meaning-before-speech step.
 
 For the short standalone version, see [One-minute example](docs/ONE_MINUTE_EXAMPLE.md).
 
@@ -74,7 +80,7 @@ Garmon does not claim to be:
 
 The current public framing is modest:
 
-> Garmon is an early research prototype for studying reviewable behavior selection around LLM agents.
+> Garmon is an early research prototype for studying how an event can receive a visible body-born meaning before final LLM speech.
 
 ## Author And Working Style
 

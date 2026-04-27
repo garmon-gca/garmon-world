@@ -6,8 +6,9 @@ This repository is public-facing. It should stay modest, readable, and safe.
 
 - Garmon as an early R&D prototype.
 - Garmon as a public research preview, not an interactive demo.
-- The separation between LLM speech and behavior preparation.
-- Context traces and behavior checks at a high level.
+- Body-born meaning at a high level.
+- The LLM as a speech layer.
+- The difference between an event-reading step and final wording.
 - Public demo planning.
 - Reproducibility questions.
 - Technical review questions.
@@ -17,10 +18,10 @@ This repository is public-facing. It should stay modest, readable, and safe.
 
 - private workbench files;
 - raw logs;
-- private runtime data;
+- private run data;
 - low-level implementation details;
 - private marker values;
-- exact control rules;
+- exact private control details;
 - personal drafts;
 - outreach notes;
 - unpublished review material.

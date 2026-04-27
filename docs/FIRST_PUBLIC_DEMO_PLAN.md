@@ -8,7 +8,7 @@ The demo is not ready yet. This is a public-safe plan for what the first demo sh
 
 The first demo should make one narrow question easier to review:
 
-> can a small agent setup show a behavior difference that is easier to inspect than a plain prompt-only answer?
+> can a small public example show how an event receives meaning before final LLM speech?
 
 The goal is not to prove a big claim. The goal is to create a modest, reproducible starting point for technical feedback.
 
@@ -16,10 +16,10 @@ The goal is not to prove a big claim. The goal is to create a modest, reproducib
 
 The first demo should include:
 
-- one short task;
-- two close behavior options;
+- one short visible event;
+- two close response directions;
 - the final answer selected by the demo;
-- a public-safe trace summary;
+- a public-safe summary;
 - a comparison note;
 - a short limits section.
 
@@ -40,9 +40,9 @@ The output should be readable without knowing the private project.
 
 An outside reviewer should be able to see:
 
-- what the input was;
-- what output was selected;
-- what changed between close options;
+- what the event was;
+- what final answer was selected;
+- what changed between close response directions;
 - what the result might suggest;
 - what the result does not prove.
 
@@ -50,9 +50,9 @@ An outside reviewer should be able to see:
 
 A useful first comparison could be:
 
-- run the same small task without the behavior layer;
-- run it with the public-safe behavior layer;
-- compare whether the selected answer changes in a meaningful and repeatable way.
+- show the same small event as a direct text task;
+- show it as a Garmon-shaped public example with an event-reading step;
+- compare whether the final answer follows a clearer public direction.
 
 This comparison should stay small. A tiny repeatable check is better than a large unclear demo.
 
@@ -80,9 +80,9 @@ The demo is not ready if:
 
 The next action is to design the smallest public-safe demo artifact:
 
-- input;
-- output;
-- trace summary;
+- event;
+- final answer;
+- public-safe summary;
 - comparison note;
 - limits.
 

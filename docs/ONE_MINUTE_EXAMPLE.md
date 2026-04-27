@@ -4,40 +4,44 @@ Note: this is an explanation example, not an interactive demo.
 
 ## The Problem
 
-Most LLM agents can produce good text, but it is often hard to see what behavior was selected before the text was written.
+An LLM can write useful text, but it is often hard to see what the event meant before the text was written.
 
 ## Small Example
 
-User task:
+Event:
 
-> I need to answer a tense message without making the situation worse.
+> A tense message arrives, and the user wants to answer without making the situation worse.
 
-## Prompt-Only Shape
+## Plain Text-Task Shape
 
-The LLM writes a polite answer directly.
+The system treats the message as a writing task.
 
-The output may be useful, but the behavior choice is not visible.
+The answer may be polite and useful, but the meaning-before-speech step is not visible.
 
-## Garmon-Style Shape
+## Garmon-Shaped Public Example
 
-A small behavior-preparation step first selects:
+A small public reading happens before final wording.
+
+The event may be read as:
 
 ```text
-selected_behavior: calm_boundary_reply
+lower intensity, keep contact without pressure, avoid escalation
 ```
 
-Public reason:
+Then a response direction is selected:
 
-> The task asks for a reply that avoids increasing tension.
+```text
+calm boundary reply
+```
 
-Then the LLM speech layer writes the final answer from that behavior.
+The LLM speech layer writes the final answer from that direction.
 
 ## What This Shows
 
 It may show a clearer review surface:
 
 ```text
-input -> selected behavior -> public reason -> final answer
+event -> public event reading -> response direction -> final answer
 ```
 
 ## What This Does Not Show
@@ -55,4 +59,4 @@ It does not show:
 
 The useful question is not whether the LLM can write nice text.
 
-The useful question is whether behavior before speech can be made easier to inspect.
+The useful question is whether meaning before speech can be made easier to inspect.

@@ -23,7 +23,7 @@ This checklist should be completed before switching the repository from private 
 
 - Garmon is described as an early research prototype.
 - The LLM is described as the speech layer.
-- Behavior preparation is described at a high level only.
+- Body-born meaning is described at a high level only.
 - The first demo is clearly marked as not ready yet.
 - External review is invited as feedback, not as validation.
 

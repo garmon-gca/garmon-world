@@ -17,7 +17,7 @@ In the reviewed path:
 - the answer was not produced by a normal chat route;
 - the answer was not produced by a browser conversation;
 - the answer was not produced by an LLM call in that pass;
-- the behavior stayed conservative;
+- the answer stayed conservative;
 - the review did not turn into an open conversation.
 
 ## Later Review Addition
@@ -35,7 +35,7 @@ The outward answer still stayed the same:
 For public reading, this is best understood as a cautious result:
 
 - the scene became easier to label;
-- the behavior did not become more expressive;
+- the outward answer did not become more expressive;
 - the output remained bounded;
 - the result still needs a future reproducible public demo.
 
@@ -43,7 +43,7 @@ For public reading, this is best understood as a cautious result:
 
 This gives Garmon World one useful public demo direction:
 
-> show a small controlled behavior step where the output remains cautious while the surrounding review layer becomes easier to inspect.
+> show a small controlled event-reading step where the output remains cautious while the surrounding review layer becomes easier to inspect.
 
 That is a better public target than a large claim.
 
