@@ -12,6 +12,30 @@ Garmon starts from a simple separation:
 
 The project explores how an agent can use explicit runtime signals, context traces, boundary checks, and auditable behavior steps before the final answer is written by an LLM.
 
+## Current Status
+
+Garmon is in an early public orientation stage.
+
+This repository currently contains:
+
+- public-safe project notes;
+- boundaries and non-claims;
+- questions for technical review;
+- an outline for a future demo.
+
+It does not yet contain a runnable public demo.
+
+## What To Review First
+
+If you are new to the project, start with:
+
+1. [Project overview](docs/PROJECT_OVERVIEW.md)
+2. [Public boundaries](docs/PUBLIC_BOUNDARIES.md)
+3. [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
+4. [For reviewers](docs/FOR_REVIEWERS.md)
+
+The most useful feedback right now is about clarity, safety of claims, and how to make the first demo easy to review.
+
 ## What This Repository Is
 
 This repository is a public entry point for:
@@ -62,6 +86,7 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [FAQ](docs/FAQ.md)
 - [For reviewers](docs/FOR_REVIEWERS.md)
 - [Demo brief](docs/DEMO_BRIEF.md)
+- [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
 - [Review questions](docs/REVIEW_QUESTIONS.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Contact](docs/CONTACT.md)
