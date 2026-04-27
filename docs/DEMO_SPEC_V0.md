@@ -6,6 +6,8 @@ This document turns the first demo idea into a concrete review target.
 
 The goal is to make the repository less silent without exposing private implementation details or claiming more than the current public materials can support.
 
+For a shorter first-reading version, see [One-minute example](ONE_MINUTE_EXAMPLE.md).
+
 ## Demo Question
 
 The first public demo should test one small question:

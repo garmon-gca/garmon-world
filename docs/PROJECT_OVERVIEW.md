@@ -2,17 +2,23 @@
 
 Garmon is an early R&D prototype for studying behavior selection around LLM-based agents.
 
-The project does not treat the LLM as the whole agent. The LLM is used as a speech layer. The behavior path around it is studied separately: context traces, runtime signals, boundaries, and small behavior decisions should be visible enough to review.
+The project does not treat the LLM as the whole agent. The LLM is used as a speech layer. The behavior path around it is studied separately: before the LLM speaks, a small behavior-preparation step should make the selected behavior easier to review.
 
 ## Core Idea
 
-Many LLM agent systems mix instruction text, context, tool calls, role descriptions, and final speech inside one large prompt flow.
+Many LLM agent systems mix instructions, context, goals, safety, tool calls, role descriptions, and final speech inside one large prompt flow.
 
 Garmon explores a stricter question:
 
-> what happens if the final words are written by an LLM, but the agent's behavior is prepared by a separate, auditable runtime path?
+> what happens if the final words are written by an LLM, but the agent's behavior is prepared by a separate visible step first?
 
 This does not make a strong claim about the nature of the agent. It is an engineering and research direction.
+
+Simple shape:
+
+```text
+User input -> behavior preparation -> selected behavior -> LLM speech -> final answer
+```
 
 ## Why This May Matter
 
