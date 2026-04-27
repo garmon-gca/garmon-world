@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/brand/garmon-world-mark.svg" alt="Garmon World" width="120">
+</p>
+
 # Garmon World
 
 Public-safe notes for **Garmon**, an early R&D prototype exploring behavioral runtime layers for LLM-based agents.
