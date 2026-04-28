@@ -23,6 +23,8 @@ The central public question is:
 
 This is not a request to accept a conclusion. It is a request to help shape a better test.
 
+Reviewers should evaluate the public review surface, not assume that the private mechanism is fully published. See [Public engineering contracts](PUBLIC_ENGINEERING_CONTRACTS.md).
+
 ## Useful Feedback
 
 Helpful feedback includes:

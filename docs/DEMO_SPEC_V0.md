@@ -10,6 +10,8 @@ The goal is to make the repository less silent without exposing private implemen
 
 For a shorter first-reading version, see [One-minute example](ONE_MINUTE_EXAMPLE.md).
 
+The demo artifact should expose the public review surface, not the private mechanism.
+
 ## Demo Question
 
 The first public demo should test one small question:

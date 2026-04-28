@@ -18,6 +18,8 @@ In Garmon World, this is the central public idea: the request is not only text t
 
 This is a public research term for a high-level event-reading step. It is not a claim of biological life, subjective experience, or a finished autonomous system.
 
+See also: [Public engineering contracts](PUBLIC_ENGINEERING_CONTRACTS.md).
+
 ## Embodied event meaning
 
 A public-safe way to describe what the event calls for, such as lowering pressure, keeping contact without pressure, or avoiding escalation.
