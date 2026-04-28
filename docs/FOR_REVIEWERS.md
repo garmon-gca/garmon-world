@@ -49,7 +49,8 @@ This repository does not yet provide:
 ## Suggested First Review Pass
 
 1. Read `README.md`.
-2. Read `docs/PUBLIC_BOUNDARIES.md`.
-3. Read `docs/DEMO_BRIEF.md`.
-4. Check whether the demo plan would be understandable to an outside engineer.
-5. Suggest one small test that could make the event-reading step easier to evaluate.
+2. Read `docs/ONE_MINUTE_EXAMPLE.md`.
+3. Read `docs/PUBLIC_ENGINEERING_CONTRACTS.md`.
+4. Read `docs/PUBLIC_BOUNDARIES.md`.
+5. Check whether the demo plan would be understandable to an outside engineer.
+6. Suggest one small test that could make the event-reading step easier to evaluate.

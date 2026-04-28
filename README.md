@@ -59,7 +59,7 @@ For the short standalone version, see [One-minute example](docs/ONE_MINUTE_EXAMP
 - Public evidence: limited public-safe note.
 - Next step: minimal reproducible demo artifact.
 
-This repository is a public research preview. It explains the idea, boundaries, and path toward a small reviewable demo. It is not yet an interactive demo for user conversation with Garmon.
+This repository is a public research preview. It explains the idea, boundaries, and path toward a small reviewable demo. It is not yet an interactive demo.
 
 ## What To Read First
 
