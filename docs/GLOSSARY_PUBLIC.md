@@ -50,6 +50,24 @@ A small public summary of what happened in a run or review.
 
 It should be readable, modest, and safe to show. It should not include private files, local paths, raw logs, or exact private implementation details.
 
+## Diagnostic material
+
+Observable support material used for review.
+
+It is not memory, not truth, and not final proof.
+
+## Recovery window
+
+A public term for the idea that one moment is not enough to claim a completed experience or residue-like after-effect.
+
+## Residue-like evidence
+
+A future-gated category.
+
+It would require recovery evidence, provenance, and separate review. It is not currently claimed as active memory.
+
+See also: [Public memory and residue boundaries](PUBLIC_MEMORY_RESIDUE_BOUNDARIES.md).
+
 ## Reviewable public example
 
 A small example that another person can inspect.

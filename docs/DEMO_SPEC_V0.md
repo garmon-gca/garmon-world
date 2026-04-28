@@ -95,6 +95,8 @@ It should be readable without access to private files.
 
 It should not be read as the full private path. It is only the public surface needed for review.
 
+The demo artifact must not imply that a public event reading is memory or residue.
+
 ## Minimal Comparison
 
 | Run | What Is Visible | Expected Difference |

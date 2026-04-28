@@ -99,6 +99,7 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [Публичный FAQ на русском](docs/PUBLIC_FAQ_RU.md)
 - [Public glossary](docs/GLOSSARY_PUBLIC.md)
 - [Public engineering contracts](docs/PUBLIC_ENGINEERING_CONTRACTS.md)
+- [Public memory and residue boundaries](docs/PUBLIC_MEMORY_RESIDUE_BOUNDARIES.md)
 - [Demo brief](docs/DEMO_BRIEF.md)
 - [First public demo plan](docs/FIRST_PUBLIC_DEMO_PLAN.md)
 - [Review questions](docs/REVIEW_QUESTIONS.md)

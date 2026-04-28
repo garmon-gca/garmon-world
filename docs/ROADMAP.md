@@ -15,6 +15,7 @@ This roadmap is intentionally small.
 - Keep private internals out of the demo.
 - Define what can be summarized safely.
 - Define what the demo does and does not show.
+- Define public recovery/residue boundary tests before any memory-like claim.
 
 ## Step 3: Minimal Reproducible Demo Artifact
 
