@@ -24,7 +24,9 @@ See also: [Public engineering contracts](PUBLIC_ENGINEERING_CONTRACTS.md).
 
 A public term for static checks that examine whether body-contour candidates remain distinct before speech.
 
-Body Shadow is a review surface, not the private mechanism and not a claim of live interaction.
+Body Shadow is the current public-safe achievement layer in Garmon World: it makes body-contour distinction easier to inspect without publishing the private mechanism.
+
+It is a review surface, not a claim of live interaction.
 
 See also: [Public Body Shadow checks](PUBLIC_BODY_SHADOW_CHECKS.md).
 
@@ -32,13 +34,15 @@ See also: [Public Body Shadow checks](PUBLIC_BODY_SHADOW_CHECKS.md).
 
 A public-safe contour such as quiet baseline, fatigue, recovery, stress, mixed stress/recovery, or day/night rhythm.
 
-A body contour can be inspected as part of the pre-speech layer. It is not a command, not memory, not behavior, and not final speech.
+A body contour can be inspected as part of the pre-speech layer.
+
+It is not a command, not memory, not behavior, not truth, and not final speech.
 
 ## Static check
 
 A non-runtime check that can show distinction without opening live interaction.
 
-For Garmon World, a static check can show that a contour remains distinguishable while still preserving boundaries around command, memory, behavior, speech, and implementation.
+For Garmon World, a static check can show that a contour remains distinguishable while still preserving boundaries around command, memory, behavior, speech, truth, and implementation.
 
 ## Negative control
 
@@ -62,7 +66,9 @@ It is not the organism, not memory, not truth, not the chooser, and not proof of
 
 A rule that review evidence is not implementation permission.
 
-Implementation requires explicit human approval and a narrow scoped gate. Helper results, reports, checkpoints, and public documents can support evidence, but they do not open runtime or implementation by themselves.
+Implementation requires explicit human approval and a narrow scoped gate.
+
+Helper results, reports, checkpoints, and public documents can support evidence, but they do not open runtime or implementation by themselves.
 
 ## Embodied event meaning
 
@@ -88,11 +94,15 @@ The part of the system where an LLM writes the final text shown to a user.
 
 In Garmon World, final text and the meaning-before-speech step are discussed as different concerns.
 
+The LLM speech layer is not presented here as the source of choice.
+
 ## Public-safe summary
 
 A small public summary of what happened in a run or review.
 
-It should be readable, modest, and safe to show. It should not include private files, local paths, raw logs, or exact private implementation details.
+It should be readable, modest, and safe to show.
+
+It should not include private files, local paths, raw logs, protected hashes, internal report names, or exact private implementation details.
 
 ## Diagnostic material
 
@@ -116,15 +126,23 @@ See also: [Public memory and residue boundaries](PUBLIC_MEMORY_RESIDUE_BOUNDARIE
 
 A small example that another person can inspect.
 
-For this repository, reviewable means: the event, final answer, limits, and public-safe summary are clear enough for calm technical feedback.
+For this repository, reviewable means: the event or contour set, public-safe summary, limits, and comparison are clear enough for calm technical feedback.
 
 It should remain small: enough to ask a technical question, not enough to imply a large conclusion.
 
+## Public artifact
+
+A small reviewable output that can be inspected without private internals.
+
+A public artifact may be a body-contour distinction table, an event-reading example, a comparison note, or a later runnable demo when ready.
+
+The first useful artifact does not have to be an interactive demo.
+
 ## Demo plan
 
-A plan for a future small demo.
+A plan for a future public artifact or demo.
 
-The demo plan explains what should be shown, what should not be shown, and what the result should not claim.
+The plan explains what should be shown, what should not be shown, and what the result should not claim.
 
 ## Evidence note
 
@@ -136,10 +154,10 @@ An evidence note is not the raw evidence package. It is a careful summary that k
 
 The line between what can be discussed openly and what should stay private.
 
-For Garmon World, public boundaries protect private files, raw logs, local paths, unpublished working notes, and exact private implementation details.
+For Garmon World, public boundaries protect private files, raw logs, local paths, unpublished working notes, protected hashes, internal report names, and exact private implementation details.
 
 ## Calm technical review
 
-Feedback focused on clarity, safety of claims, reproducibility, and wording.
+Feedback focused on clarity, safety of claims, reproducibility, wording, and whether the public artifact is understandable.
 
 It is not pressure to make stronger claims.
