@@ -26,19 +26,21 @@ The important result is that these contours do not collapse into one generic lab
 
 This supports the central Garmon direction:
 
-```text
-state -> meaning -> choice -> speech
-```
+    body contour -> meaning candidate -> passive context -> speech boundary
 
-The achievement is not stronger wording. The achievement is a more inspectable pre-speech layer where body-contour differences can be reviewed before final text is written.
+The achievement is not stronger wording.
+
+The achievement is a more inspectable pre-speech layer where body-contour differences can be reviewed before final text is written.
 
 ## Negative Controls
 
 The checks also include negative controls.
 
-That means deliberately invalid cases are expected to fail. This is important because a useful public-safe check must be able to go green for valid candidate contours and red when a forbidden authority leak is introduced.
+That means deliberately invalid cases are expected to fail.
 
-In public terms: the harness can distinguish a valid contour summary from a contour trying to become command, memory, behavior, truth, speech, or runtime authority.
+This is important because a useful public-safe check must be able to go green for valid candidate contours and red when a forbidden authority leak is introduced.
+
+In public terms: the check can distinguish a valid contour summary from a contour trying to become command, memory, behavior, truth, speech, or runtime authority.
 
 ## Sequence Coherence
 
