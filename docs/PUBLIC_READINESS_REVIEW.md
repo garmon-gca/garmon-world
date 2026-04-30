@@ -20,7 +20,7 @@ The repository contains:
 - Russian FAQ;
 - English FAQ;
 - public glossary;
-- first public demo planning;
+- first public artifact planning;
 - demo specification V0;
 - demo brief;
 - first public-safe evidence note;
@@ -35,15 +35,15 @@ The repository contains:
 
 ## What Is Public-Safe
 
-The public layer is limited to:
+The public layer may include:
 
 - high-level project framing;
 - Body Shadow as the current public-safe achievement;
 - static body-contour distinction summaries;
-- cautious boundaries around command, memory, behavior, speech, and implementation permission;
+- boundaries around command, memory, behavior, speech, truth, and implementation permission;
 - public-safe summaries;
 - review questions;
-- future demo and artifact planning;
+- future artifact and demo planning;
 - guidance for calm feedback.
 
 The public layer does not include:
@@ -55,6 +55,8 @@ The public layer does not include:
 - unpublished working notes;
 - protected hashes;
 - internal report filenames;
+- private owner paths;
+- private schema details;
 - a runnable demo.
 
 ## Current Public-Safe Achievement
@@ -72,14 +74,14 @@ The public surface must keep the following boundary clear:
 - body-contour distinction is not command authority;
 - static/shadow evidence is not live behavior;
 - reports are not truth;
-- public summaries are not private mechanism;
+- public summaries are not the private mechanism;
 - memory/residue is not motor;
 - speech is not choice;
 - review evidence is not implementation permission.
 
-## What Is Not Ready Yet
+## Outside The Current Public Claim
 
-Still not ready:
+The following stay outside the current public claim:
 
 - interactive public demo;
 - live/runtime execution;
@@ -87,12 +89,13 @@ Still not ready:
 - actual selected result;
 - actual behavior;
 - memory influence on choice;
+- live LLM speech after a selected result;
 - complete technical paper;
 - public API;
 - product launch;
 - broad community announcement.
 
-## Current Review Question
+## Current Review Questions
 
 The current public review question is:
 
@@ -101,6 +104,10 @@ The current public review question is:
 A second useful question is:
 
 > What is the smallest fair public artifact that can show this distinction clearly?
+
+A third useful question is:
+
+> Does the repository show the achievement first and the boundary second?
 
 ## Sharing Guidance
 
@@ -126,6 +133,7 @@ Pause public sharing if:
 - README feels unclear;
 - the opening post sounds like a product launch;
 - Body Shadow is framed as live behavior;
+- static/shadow evidence is framed as implementation permission;
 - private material appears in the repository;
 - the first public link would be sent to a hostile or noisy audience.
 
