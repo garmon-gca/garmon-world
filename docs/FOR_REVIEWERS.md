@@ -7,21 +7,27 @@ This page is for technical readers who want to understand what can be reviewed w
 Useful review areas:
 
 - whether the public framing is clear and modest;
+- whether the Body Shadow achievement is understandable;
+- whether body-contour distinction before speech is a useful review surface;
 - whether the body-born meaning idea is understandable;
 - whether the event-reading step is clearly not a fixed label or command;
 - whether the LLM speech layer is clearly separated from the step before speech;
-- whether the proposed demo direction is meaningful;
+- whether the proposed artifact direction is meaningful;
 - whether the safety boundaries are strong enough;
 - whether the evaluation questions are testable;
 - whether the project avoids claims that are too strong.
 
-## Main Technical Question
+## Main Technical Questions
 
-The central public question is:
+The central public questions are:
+
+> can a small public artifact show that body-contour candidates remain distinct before final LLM speech?
+
+and:
 
 > can a small public example make the meaning of an event before final LLM speech easier to inspect?
 
-This is not a request to accept a conclusion. It is a request to help shape a better test.
+This is not a request to accept a conclusion. It is a request to help shape better public artifacts.
 
 Reviewers should evaluate the public review surface, not assume that the private mechanism is fully published. See [Public engineering contracts](PUBLIC_ENGINEERING_CONTRACTS.md).
 
@@ -29,7 +35,10 @@ Reviewers should evaluate the public review surface, not assume that the private
 
 Helpful feedback includes:
 
-- what a minimal demo should show;
+- whether the Body Shadow / body-contour wording is understandable;
+- whether the boundary between contour and command stays clear;
+- what a minimal body-contour artifact should show;
+- what a minimal event-reading demo should show;
 - what a minimal demo should not claim;
 - what public summaries should include;
 - what public summaries should avoid;
@@ -40,7 +49,8 @@ Helpful feedback includes:
 
 This repository does not yet provide:
 
-- a finished runnable demo;
+- an interactive public demo;
+- a production service;
 - a complete technical paper;
 - third-party validation;
 - production deployment instructions;
@@ -49,8 +59,10 @@ This repository does not yet provide:
 ## Suggested First Review Pass
 
 1. Read `README.md`.
-2. Read `docs/ONE_MINUTE_EXAMPLE.md`.
-3. Read `docs/PUBLIC_ENGINEERING_CONTRACTS.md`.
-4. Read `docs/PUBLIC_BOUNDARIES.md`.
-5. Check whether the demo plan would be understandable to an outside engineer.
-6. Suggest one small test that could make the event-reading step easier to evaluate.
+2. Read `docs/PUBLIC_CURRENT_STATUS.md`.
+3. Read `docs/PUBLIC_BODY_SHADOW_CHECKS.md`.
+4. Read `docs/PUBLIC_ENGINEERING_CONTRACTS.md`.
+5. Read `docs/ONE_MINUTE_EXAMPLE.md`.
+6. Check whether the Body Shadow achievement is understandable to an outside engineer.
+7. Suggest one small test or artifact that could make body-contour distinction easier to evaluate.
+8. Check whether the event-reading demo plan is still understandable after the Body Shadow update.
