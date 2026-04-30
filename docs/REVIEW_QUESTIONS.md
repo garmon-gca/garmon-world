@@ -6,9 +6,9 @@ These are the first questions for technical readers.
 
 - Is the Body Shadow framing understandable without private internals?
 - Does body-contour distinction before speech sound like a useful review surface?
-- Which body-contour candidates are easiest to understand publicly: quiet baseline, fatigue, recovery, stress, or day/night rhythm?
+- Which body-contour candidates are easiest to understand publicly: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, or day/night rhythm?
 - What comparison would make it clearest that different contours do not collapse into one generic label?
-- Is the boundary clear that a body contour is not a command, not behavior, and not memory?
+- Is the boundary clear that a body contour is not a command, not behavior, not memory, not truth, and not implementation permission?
 
 ## Static/Shadow Evidence
 
@@ -16,27 +16,36 @@ These are the first questions for technical readers.
 - How can negative controls be explained simply enough for a non-insider technical reader?
 - What would make the difference between “valid contour distinction” and “forbidden authority leak” easy to review?
 - How can the repository show achievement first while keeping the boundary visible?
+- Where might static/shadow evidence accidentally sound like live behavior?
+
+## Public Artifact
+
+- What is the smallest body-contour artifact that would be meaningful to review?
+- Should the first artifact be a body-contour distinction table before any runnable demo?
+- What should the artifact show first: contour distinction, boundary, or comparison?
+- What would make the artifact easy to inspect in under one minute?
+- What should the artifact avoid so it does not sound like an interactive demo?
 
 ## Event Meaning
 
 - How can we test whether an event receives a visible meaning before final speech?
 - What minimal checks are useful for comparing a direct text answer with a Garmon-shaped public example?
-- Which parts of the pre-speech path should be visible in a public demo?
+- Which parts of the pre-speech path should be visible in a later public demo?
 - How can event meaning be shown without turning the public event reading into a fixed label or command?
 
 ## Reproducibility
 
 - What is the smallest artifact that is still meaningful?
-- Should the first artifact be a body-contour distinction table before a runnable demo?
 - How can an artifact avoid private internals while still showing enough evidence?
 - What should be summarized in a public-safe way?
+- What comparison would be fair without requiring trust in hidden steps?
 
 ## Safety
 
 - How can public boundaries be shown without exposing private control details?
 - How can the project avoid strong claims while still showing what has been achieved?
 - What wording keeps the work honest and technically useful?
-- Where might the text accidentally imply live interaction, behavior authority, or memory authority?
+- Where might the text accidentally imply live interaction, behavior authority, memory authority, or speech authority?
 
 ## Speech Layer
 
@@ -44,3 +53,4 @@ These are the first questions for technical readers.
 - How can final text avoid becoming the only visible source of meaning?
 - What evaluation would distinguish a useful event-reading step from nicer wording?
 - How can a public-safe capsule or speech surface be described without implying that speech is the source of choice?
+- How can we keep the public framing clear that LLM speech comes after the selected direction, not before it?
