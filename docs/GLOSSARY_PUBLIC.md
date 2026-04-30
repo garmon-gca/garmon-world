@@ -20,6 +20,50 @@ This is a public research term for a high-level event-reading step. It is not a 
 
 See also: [Public engineering contracts](PUBLIC_ENGINEERING_CONTRACTS.md).
 
+## Body Shadow
+
+A public term for static checks that examine whether body-contour candidates remain distinct before speech.
+
+Body Shadow is a review surface, not the private mechanism and not a claim of live interaction.
+
+See also: [Public Body Shadow checks](PUBLIC_BODY_SHADOW_CHECKS.md).
+
+## Body contour
+
+A public-safe contour such as quiet baseline, fatigue, recovery, stress, mixed stress/recovery, or day/night rhythm.
+
+A body contour can be inspected as part of the pre-speech layer. It is not a command, not memory, not behavior, and not final speech.
+
+## Static check
+
+A non-runtime check that can show distinction without opening live interaction.
+
+For Garmon World, a static check can show that a contour remains distinguishable while still preserving boundaries around command, memory, behavior, speech, and implementation.
+
+## Negative control
+
+A deliberately invalid case used to check that forbidden authority leaks are caught.
+
+A useful public-safe check should be able to go green for valid candidate contours and red when a contour tries to become command, memory, behavior, truth, speech, or runtime authority.
+
+## Passive context
+
+A public term for context that can be visible for review without becoming chooser input or behavior authority.
+
+Passive context is not influence by itself.
+
+## Public-safe capsule
+
+A safe outward container for representation after internal selection.
+
+It is not the organism, not memory, not truth, not the chooser, and not proof of life.
+
+## Controlled implementation gate
+
+A rule that review evidence is not implementation permission.
+
+Implementation requires explicit human approval and a narrow scoped gate. Helper results, reports, checkpoints, and public documents can support evidence, but they do not open runtime or implementation by themselves.
+
 ## Embodied event meaning
 
 A public-safe way to describe what the event calls for, such as lowering pressure, keeping contact without pressure, or avoiding escalation.
