@@ -11,11 +11,13 @@ This page explains what that phrase is allowed to mean publicly, what has become
 
 ## Public Model
 
-Use this public shape:
+Use this public shape for the general Garmon direction:
 
-```text
-event -> public event reading -> response direction -> LLM speech -> final answer
-```
+    event -> public event reading -> response direction -> LLM speech -> final answer
+
+After the Body Shadow work, one more public-safe review shape is visible:
+
+    body contour -> meaning candidate -> passive context -> boundary
 
 The private implementation is not published here.
 
@@ -25,7 +27,9 @@ The public review surface is intentionally smaller than the private system.
 
 Body Shadow gives Garmon a public-safe body-contour distinction surface.
 
-Static checks can now be summarized publicly as showing that several body-contour candidates remain distinguishable before LLM speech. Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
+Static checks can now be summarized publicly as showing that several body-contour candidates remain distinguishable before LLM speech.
+
+Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
 
 This is an achievement, not a command path.
 
@@ -45,12 +49,12 @@ This is an achievement, not a command path.
 12. Negative controls are part of the evidence: a useful check must fail when forbidden authority leaks are introduced.
 13. Visibility is not influence.
 14. Passive context is not chooser input.
-15. Choice ownership is not transferred by context.
+15. Choice ownership boundary is preserved.
 16. Behavior requires a selected result; context alone does not create behavior.
 17. A public-safe capsule is an outward container, not the organism, not memory, not truth, and not the chooser.
 18. Reports, reviews, helper results, and checkpoints can support evidence, but they do not open implementation.
 19. Public evidence notes are not final proof.
-20. Demo artifacts must remain small, bounded, and reproducible.
+20. Public artifacts must remain small, bounded, and reproducible.
 21. The project does not claim general intelligence, subjective experience, mature autonomy, or external validation.
 
 ## What Can Be Reviewed Publicly
@@ -61,7 +65,7 @@ This is an achievement, not a command path.
 - whether the boundary between contour and command stays clear;
 - whether the public example is fair;
 - whether claims are too strong;
-- what a minimal demo artifact should show.
+- what a minimal public artifact should show.
 
 ## What Is Not Public
 
@@ -78,8 +82,9 @@ This page lists categories only, not exact files or paths:
 - unpublished evidence packages;
 - internal report filenames;
 - protected hashes;
-- private owner paths.
+- private owner paths;
+- private schema details.
 
 ## One-Line Summary
 
-The public repository shows the review surface, not the private mechanism: body contours can be inspected before speech without becoming command, memory, behavior, truth, or implementation permission.
+The public repository shows the review surface, not the private mechanism: body contours can be inspected before speech without becoming command, memory, behavior, truth, speech authority, or implementation permission.
