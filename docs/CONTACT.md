@@ -1,6 +1,6 @@
 # Contact
 
-Garmon is currently in a quiet early public stage.
+Garmon is currently in an early public research stage.
 
 The best contact style is calm technical feedback: specific, low-pressure, and focused on the public review surface.
 
@@ -42,6 +42,8 @@ Please avoid:
 
 Direct public contact details may be added later.
 
-For now, GitHub issues or discussions may be enabled after the public materials are ready.
+For now, GitHub issues or discussions may be used when a calm review channel is needed.
 
-The most useful first feedback is about whether the current achievement-first framing is understandable: body contours are distinguishable before speech, while remaining separate from command, memory, behavior, and implementation permission.
+The most useful first feedback is about whether the achievement-first framing is understandable.
+
+The key public claim is narrow: body contours are distinguishable before speech, while remaining separate from command, memory, behavior, and implementation permission.
