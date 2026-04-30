@@ -18,13 +18,26 @@ The first public demo should test one small question:
 
 > can a public example show how an event receives meaning before final LLM speech?
 
-This is an engineering review question, not a broad claim about the nature of the system.
+After the Body Shadow work, a second useful review question is now visible:
+
+> can a public artifact show that body-contour candidates remain distinct before speech without becoming command authority?
+
+These are engineering review questions, not broad claims about the nature of the system.
 
 ## Demo Shape
 
 The demo should be small enough to read in one sitting.
 
-It should include:
+It may use one of two public-safe shapes:
+
+1. event-reading artifact;
+2. body-contour distinction artifact.
+
+Both shapes should keep the private implementation out of the public repository.
+
+## Shape A: Event-Reading Artifact
+
+This shape should include:
 
 - one visible event or task;
 - two close response directions;
@@ -34,7 +47,7 @@ It should include:
 - one comparison table;
 - one limits section.
 
-## Proposed Demo Event
+### Proposed Demo Event
 
 Visible event:
 
@@ -48,7 +61,7 @@ Why this event:
 - it allows close response directions;
 - it can show whether the answer only changes wording or follows a clearer meaning-before-speech step.
 
-## Response Directions
+### Response Directions
 
 Direction A: direct helpful reply
 
@@ -70,9 +83,32 @@ It should not expose the private mechanism behind the selection.
 
 The public event reading should stay modest: it is a reviewable summary, not a fixed label and not a command.
 
+## Shape B: Body-Contour Distinction Artifact
+
+This shape may be a better first public artifact than an interactive chat demo.
+
+It should show that body-contour candidates can remain distinct before final speech.
+
+A small artifact may compare:
+
+- quiet baseline;
+- fatigue;
+- recovery;
+- stress;
+- night/downshift;
+- day/wake support.
+
+The useful public question is:
+
+> do these contours stay distinct, or do they collapse into one generic label?
+
+This artifact should show body-contour distinction and its boundary side by side.
+
+It should not imply that a contour creates behavior, memory, truth, speech authority, or implementation permission.
+
 ## Expected Public Summary
 
-A public-safe summary can use a simple shape like this:
+A public-safe event-reading summary can use a simple shape like this:
 
 ```json
 {
@@ -89,6 +125,17 @@ A public-safe summary can use a simple shape like this:
 }
 ```
 
+A public-safe body-contour artifact can use a smaller review table instead of a full response example:
+
+```text
+quiet baseline -> stable low-pressure contour
+fatigue -> low-energy warning contour
+recovery -> downshift / return contour
+stress -> tension after event contour
+night/downshift -> body-time downshift contour
+day/wake support -> body-time wake-support contour
+```
+
 This summary is intentionally small.
 
 It should be readable without access to private files.
@@ -103,6 +150,7 @@ The demo artifact must not imply that a public event reading is memory or residu
 | --- | --- | --- |
 | Direct text-task baseline | visible event and final answer | may produce a polite answer, but the event reading is not visible |
 | Garmon-shaped public example | visible event, response direction, public event reading, final answer | makes the meaning-before-speech step easier to inspect |
+| Body-contour artifact | several body-contour candidates and their public readings | shows whether quiet baseline, fatigue, recovery, stress, and rhythm remain distinguishable before speech |
 
 The comparison is useful only if the public reader can see what changed and what did not change.
 
@@ -113,6 +161,7 @@ The demo may show:
 - a small event reading represented in public-safe language;
 - a final answer that follows a response direction;
 - a clearer review surface before final text;
+- distinguishable body-contour candidates before speech;
 - a starting point for technical feedback.
 
 ## What This Demo Must Not Claim
@@ -125,7 +174,10 @@ The demo must not claim:
 - mature autonomy;
 - general intelligence;
 - external validation;
-- access to private implementation details.
+- access to private implementation details;
+- live interaction;
+- memory influence on choice;
+- behavior authority from body contours.
 
 ## Private Boundary
 
@@ -137,7 +189,10 @@ The demo must not include:
 - private marker values;
 - exact private control details;
 - unpublished working notes;
-- private evidence packages.
+- private evidence packages;
+- internal report filenames;
+- protected hashes;
+- private owner paths.
 
 If a detail is needed only to make the result look stronger, it should stay out.
 
@@ -145,12 +200,13 @@ If a detail is needed only to make the result look stronger, it should stay out.
 
 The demo spec is ready to become a demo artifact only if:
 
-- the event is understandable in under one minute;
+- the event or contour set is understandable in under one minute;
 - the public summary is safe;
 - the comparison is small and fair;
 - the result avoids strong claims;
 - the demo can be reviewed without private context;
-- the limits are visible next to the result.
+- the limits are visible next to the result;
+- the artifact shows achievement first and boundary second.
 
 ## Failure Cases
 
@@ -158,6 +214,7 @@ The demo should be treated as not ready if:
 
 - it only shows nicer wording;
 - the event reading is unclear;
+- body-contour differences collapse into vague labels;
 - the public summary is too vague to review;
 - the explanation requires private internals;
 - the result sounds like a product launch;
@@ -169,6 +226,7 @@ After this specification is reviewed, the next safe artifacts could be:
 
 - `demo/README.md`;
 - `demo/example_summary_public.json`;
+- a body-contour distinction table;
 - a small comparison table;
 - a short note explaining how to read the result.
 
