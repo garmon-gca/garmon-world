@@ -1,16 +1,23 @@
 # Public Boundaries
 
-This repository is public-facing. It should stay modest, readable, and safe.
+This repository is public-facing. It should stay readable, safe, and achievement-aware.
+
+The current public layer should show what has become inspectable without publishing the private mechanism.
 
 ## Safe To Discuss
 
 - Garmon as an early R&D prototype.
 - Garmon as a public research preview, not an interactive demo.
 - Body-born meaning at a high level.
+- Body Shadow as a public-safe static check surface.
+- Body-contour distinction before LLM speech.
+- Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm as public-safe contour examples.
+- Negative controls as a way to show that forbidden authority leaks are caught.
 - Event reading as a public review surface, not as a command or private mechanism.
 - The LLM as a speech layer.
 - The difference between an event-reading step and final wording.
-- Public demo planning.
+- The difference between contour visibility and command authority.
+- Public demo and artifact planning.
 - Reproducibility questions.
 - Technical review questions.
 - Limits and uncertainty.
@@ -23,23 +30,27 @@ This repository is public-facing. It should stay modest, readable, and safe.
 - low-level implementation details;
 - private marker values;
 - exact private control details;
+- internal report filenames;
+- protected hashes;
+- private owner paths;
+- hidden channels;
 - personal drafts;
 - outreach notes;
 - unpublished review material.
 
 ## Tone Rule
 
-Use careful language.
+Use achievement-first careful language.
 
 Good:
 
-> early prototype
+> Body Shadow shows distinguishable body-contour candidates before speech.
+
+> The boundary is preserved: contours do not become commands.
 
 > technical review welcome
 
-> not enough for strong claims
-
-> reproducible demo needed
+> small public artifact needed
 
 Avoid:
 
@@ -51,8 +62,12 @@ Avoid:
 
 > urgent major discovery
 
+> live behavior from static checks
+
 ## First Public Goal
 
-The first goal is not to impress.
+The first goal is to show a small inspectable achievement without overstating it.
 
-The first goal is to make the project understandable enough for calm technical review.
+The current achievement is Body Shadow: body-contour candidates can be inspected before speech while remaining separate from command, memory, behavior, truth, and implementation permission.
+
+The goal is better technical review, not hype.
