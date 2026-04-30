@@ -8,7 +8,7 @@ It is no longer only a pre-public checklist. It should be used whenever public d
 
 - README explains the project in simple language.
 - README shows the current public-safe achievement.
-- README links to current status, Body Shadow checks, boundaries, review questions, and demo planning.
+- README links to current status, Body Shadow checks, boundaries, review questions, and artifact/demo planning.
 - The brand mark is small and calm.
 - The repository description is modest and achievement-aware.
 
@@ -28,6 +28,7 @@ The boundary should follow immediately after:
 - contours are not commands;
 - contours are not memory;
 - contours are not behavior;
+- contours are not truth;
 - contours are not final speech;
 - static/shadow evidence is not implementation permission.
 
@@ -41,6 +42,7 @@ The boundary should follow immediately after:
 - No internal report filenames are included.
 - No protected hashes are included.
 - No private owner paths are included.
+- No private schema details are included.
 - No strong claims are made.
 
 ## Public Framing
@@ -81,7 +83,7 @@ Do not broaden public sharing if:
 - the README sounds too strong;
 - Body Shadow is described as live behavior;
 - static/shadow evidence sounds like implementation permission;
-- the demo plan sounds like a finished result;
+- the artifact/demo plan sounds like a finished result;
 - private material is accidentally included;
 - Vitaliy feels rushed.
 
