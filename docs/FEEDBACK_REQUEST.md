@@ -4,7 +4,9 @@ This repository is a public research preview, not an interactive demo.
 
 Garmon is an early research prototype about body-born meaning before LLM speech.
 
-The current public-safe achievement is Body Shadow: static checks show that several body-contour candidates remain distinguishable before LLM speech. Quiet baseline, fatigue, recovery, stress, and day/night rhythm do not collapse into one generic label.
+The current public-safe achievement is Body Shadow: static checks show that several body-contour candidates remain distinguishable before LLM speech. Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
+
+The useful point is not stronger wording. The useful point is a more inspectable pre-speech layer.
 
 I am looking for narrow feedback on clarity, public framing, and the next fair public artifact.
 
