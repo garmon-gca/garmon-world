@@ -1,6 +1,6 @@
 # Contributing
 
-Garmon World is in an early public orientation stage.
+Garmon World is in an early public research-preview stage.
 
 The best contribution right now is calm technical feedback on the public review surface.
 
@@ -66,6 +66,8 @@ For now, small documentation suggestions are more useful than code changes.
 If you propose a change, please keep it modest and public-safe.
 
 Good pull requests should improve clarity without exposing private mechanisms.
+
+They should not turn static/shadow evidence into live behavior claims.
 
 ## Tone
 
