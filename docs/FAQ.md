@@ -14,15 +14,19 @@ The current public-safe achievement is Body Shadow.
 
 Static checks show that several body-contour candidates remain distinguishable before LLM speech: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
 
-This is a reviewable pre-speech achievement. It is not an interactive demo, not live behavior, and not a claim that the private mechanism is published.
+This matters because the achievement is not stronger wording. The achievement is a more inspectable pre-speech layer.
+
+The boundary is preserved: Body Shadow is not an interactive demo, not live behavior, and not a claim that the private mechanism is published.
 
 ## Is Garmon a chatbot?
 
 Not exactly.
 
-A chatbot usually centers on conversation. Garmon is more focused on what happens before speech appears.
+A chatbot usually centers on conversation and final replies.
 
-The repository is also not an interactive demo yet. It is a public research preview.
+Garmon is focused on what happens before speech appears: how an event receives meaning, how body-contour candidates remain distinguishable, and how the final words stay separate from the earlier review surface.
+
+The repository is not an interactive demo yet. It is a public research preview.
 
 ## Is Body Shadow a command system?
 
