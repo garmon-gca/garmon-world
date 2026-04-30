@@ -1,8 +1,8 @@
-# Public Readiness Review
+# Public Surface Review
 
-This is a final pre-public review note for Garmon World.
+This is a public-surface review note for Garmon World.
 
-The repository is not treated here as already public. This file is a readiness review before the visibility switch.
+It replaces the older pre-public framing with a maintenance-oriented review of what the repository currently shows and what it must not imply.
 
 ## What Exists
 
@@ -11,12 +11,16 @@ The repository contains:
 - a main README;
 - a small brand mark;
 - project overview;
+- public current status;
+- public Body Shadow checks;
+- public engineering contracts;
+- public memory and residue boundaries;
 - public boundaries;
 - Russian overview;
 - Russian FAQ;
 - English FAQ;
 - public glossary;
-- first public demo plan;
+- first public demo planning;
 - demo specification V0;
 - demo brief;
 - first public-safe evidence note;
@@ -26,7 +30,7 @@ The repository contains:
 - contribution guidance;
 - security note;
 - license status;
-- public release checklist;
+- public surface checklist;
 - issue templates.
 
 ## What Is Public-Safe
@@ -34,10 +38,12 @@ The repository contains:
 The public layer is limited to:
 
 - high-level project framing;
-- cautious non-claims;
+- Body Shadow as the current public-safe achievement;
+- static body-contour distinction summaries;
+- cautious boundaries around command, memory, behavior, speech, and implementation permission;
 - public-safe summaries;
 - review questions;
-- future demo planning and a first demo specification;
+- future demo and artifact planning;
 - guidance for calm feedback.
 
 The public layer does not include:
@@ -47,36 +53,64 @@ The public layer does not include:
 - local paths;
 - exact private implementation details;
 - unpublished working notes;
+- protected hashes;
+- internal report filenames;
 - a runnable demo.
+
+## Current Public-Safe Achievement
+
+The current visible achievement is Body Shadow.
+
+Public documents now explain that body-contour candidates can remain distinguishable before LLM speech. Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
+
+This gives Garmon a more inspectable pre-speech layer.
+
+## Boundary Preserved
+
+The public surface must keep the following boundary clear:
+
+- body-contour distinction is not command authority;
+- static/shadow evidence is not live behavior;
+- reports are not truth;
+- public summaries are not private mechanism;
+- memory/residue is not motor;
+- speech is not choice;
+- review evidence is not implementation permission.
 
 ## What Is Not Ready Yet
 
 Still not ready:
 
-- runnable public demo;
-- external validation;
+- interactive public demo;
+- live/runtime execution;
+- actual chooser input;
+- actual selected result;
+- actual behavior;
+- memory influence on choice;
 - complete technical paper;
 - public API;
 - product launch;
 - broad community announcement.
 
-## Can The Repository Be Switched To Public?
+## Current Review Question
 
-Technical answer:
+The current public review question is:
 
-> READY_FOR_FINAL_HUMAN_PUBLIC_SWITCH_REVIEW
+> Is the Body Shadow achievement understandable as a small public-safe result: distinguishable body-contour candidates before speech, without turning those contours into commands?
 
-This means the repository can be considered for Public after one final human reading pass.
+A second useful question is:
 
-It does not mean the repository must be opened immediately.
+> What is the smallest fair public artifact that can show this distinction clearly?
 
-## First 24 Hours After Opening
+## Sharing Guidance
 
-Recommended behavior after switching to Public:
+Recommended behavior when sharing the repository:
 
+- lead with the achievement, not only disclaimers;
+- keep the boundary short and visible;
 - do not announce everywhere at once;
 - check that README renders correctly;
-- check that links work without login;
+- check that links work without login, if the repository is public;
 - keep Issues calm and narrow;
 - save useful feedback;
 - do not answer sharp comments immediately;
@@ -85,17 +119,18 @@ Recommended behavior after switching to Public:
 
 ## Stop Conditions
 
-Do not switch to Public if:
+Pause public sharing if:
 
 - any safety check fails;
 - Vitaliy feels rushed;
 - README feels unclear;
 - the opening post sounds like a product launch;
+- Body Shadow is framed as live behavior;
 - private material appears in the repository;
 - the first public link would be sent to a hostile or noisy audience.
 
 ## Final Note
 
-The repository is close to public-ready as a quiet research doorway.
+The repository is no longer only a quiet doorway with future plans. It now has a clear public-safe achievement: Body Shadow and body-contour distinction before speech.
 
-The next decision should be human and slow: open the repository only when Vitaliy is comfortable with the first outside readers seeing it.
+The next decision should still be careful: show the achievement clearly, keep the boundary visible, and do not publish the private mechanism.
