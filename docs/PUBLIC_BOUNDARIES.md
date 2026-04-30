@@ -17,7 +17,9 @@ The current public layer should show what has become inspectable without publish
 - The LLM as a speech layer.
 - The difference between an event-reading step and final wording.
 - The difference between contour visibility and command authority.
-- Public demo and artifact planning.
+- Public-safe capsule as an outward container, not as the organism.
+- Controlled implementation gate as a public boundary principle.
+- Public artifact and demo planning.
 - Reproducibility questions.
 - Technical review questions.
 - Limits and uncertainty.
@@ -33,6 +35,7 @@ The current public layer should show what has become inspectable without publish
 - internal report filenames;
 - protected hashes;
 - private owner paths;
+- private schema details;
 - hidden channels;
 - personal drafts;
 - outreach notes;
@@ -47,6 +50,8 @@ Good:
 > Body Shadow shows distinguishable body-contour candidates before speech.
 
 > The boundary is preserved: contours do not become commands.
+
+> The achievement comes first, the boundary stays visible.
 
 > technical review welcome
 
