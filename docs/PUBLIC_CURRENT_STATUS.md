@@ -5,7 +5,7 @@ This page is the public-facing current status of Garmon World. It summarizes wha
 
 ## Current Public-Safe Achievement
 
-Garmon now has a static/shadow evidence layer.
+Garmon now has a public-safe static/shadow evidence layer.
 
 The current public achievement is that body-contour candidates can remain distinguishable before LLM speech. Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
 
@@ -15,9 +15,7 @@ The important result is not stronger wording. The important result is a more ins
 
 The current public-safe chain can be summarized as:
 
-```text
-body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership -> behavior boundary
-```
+    body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership boundary -> behavior boundary
 
 This means a body-contour candidate can be reviewed as part of the path before speech while preserving the boundary that it does not become command authority.
 
@@ -57,16 +55,17 @@ The following remain outside the current public claim:
 - actual chooser input;
 - actual selected result;
 - actual behavior;
+- live LLM speech after a selected result;
+- body memory;
 - memory influence on choice;
-- LLM speech after a live selected result;
 - public proof of the private mechanism.
 
 ## Next Public Artifact
 
 The next useful public artifact does not need to be a chat demo.
 
-A better first artifact may be a small body-contour distinction artifact: a public-safe summary showing how quiet baseline, fatigue, recovery, stress, and rhythm remain distinguishable before final speech.
+A better first artifact may be a small body-contour distinction artifact: a public-safe summary showing how quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and rhythm remain distinguishable before final speech.
 
 ## One-Line Summary
 
-Garmon now has a static/shadow evidence chain: distinguishable body contours before speech, carried toward meaning and passive context, without becoming command, memory, behavior, speech, or implementation permission.
+Garmon now has a public-safe static/shadow evidence chain: distinguishable body contours before speech, carried toward meaning and passive context, without becoming command, memory, behavior, speech, or implementation permission.
