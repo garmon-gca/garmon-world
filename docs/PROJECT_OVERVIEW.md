@@ -12,17 +12,15 @@ Many AI systems start from the request and move downward into a plan and an answ
 
 Garmon explores a stricter question:
 
-> what happens if the final words are written by an LLM, but the event receives a visible embodied meaning before those words are written?
+> what happens if the final words are written by an LLM, but the event receives a visible body-born meaning before those words are written?
 
-This does not make a strong claim about the nature of the system. It is an engineering and research direction.
+This is an engineering and research direction: make the pre-speech layer easier to inspect without treating final text as the whole system.
 
 In these public notes, body-born meaning means a high-level event-reading step. It is not a biological claim and does not imply subjective experience.
 
 Simple shape:
 
-```text
-bodily background -> embodied event meaning -> inclination -> response direction -> LLM speech -> final answer
-```
+    bodily background -> body-born event meaning -> inclination -> response direction -> LLM speech -> final answer
 
 ## What Has Become Visible
 
@@ -32,9 +30,7 @@ Static Body Shadow checks show that several body-contour candidates remain disti
 
 A static/shadow evidence chain also preserves boundaries across the pre-speech path:
 
-```text
-body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership -> behavior boundary
-```
+    body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership -> behavior boundary
 
 The achievement is inspectability before speech. It is not louder wording, and it is not a claim that private runtime is published here.
 
@@ -42,7 +38,7 @@ The achievement is inspectability before speech. It is not louder wording, and i
 
 Garmon is currently in a public research preview stage.
 
-This repository explains the idea, boundaries, and planned path toward a small reviewable demo artifact. It is not yet an interactive demo.
+This repository explains the idea, boundaries, and planned path toward a small reviewable public artifact. It is not yet an interactive demo.
 
 ## Why This May Matter
 
