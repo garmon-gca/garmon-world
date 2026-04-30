@@ -1,20 +1,48 @@
 # First Public Demo Plan
 
-This document describes the intended first public demo for Garmon.
+This document describes the intended first public artifact path for Garmon.
 
-The demo is not ready yet. This is a public-safe plan for what the first demo should and should not show.
+The first public artifact does not have to be an interactive demo. It may first be a small, public-safe body-contour artifact that shows the current Body Shadow achievement.
 
 ## Purpose
 
-The first demo should make one narrow question easier to review:
+The first public artifact should make one narrow question easier to review:
+
+> can a small public artifact show that body-contour candidates remain distinct before final LLM speech?
+
+A later event-reading artifact can test a second question:
 
 > can a small public example show how an event receives meaning before final LLM speech?
 
 The goal is not to prove a big claim. The goal is to create a modest, reproducible starting point for technical feedback.
 
-## What The Demo Should Include
+## Current Best First Artifact
 
-The first demo should include:
+The strongest first public artifact is currently a body-contour distinction artifact.
+
+It should show that several body-contour candidates remain distinguishable before speech:
+
+- quiet baseline;
+- fatigue;
+- recovery;
+- stress;
+- mixed stress/recovery;
+- night/downshift;
+- day/wake support.
+
+The useful point is not stronger wording. The useful point is a more inspectable pre-speech layer.
+
+## What The First Artifact Should Include
+
+The first body-contour artifact should include:
+
+- a small set of body-contour candidates;
+- one public-safe reading for each contour;
+- a small comparison note;
+- a clear boundary section;
+- a short limits section.
+
+A later event-reading artifact may include:
 
 - one short visible event;
 - two close response directions;
@@ -23,14 +51,16 @@ The first demo should include:
 - a comparison note;
 - a short limits section.
 
-## What The Demo Should Avoid
+## What The Artifact Should Avoid
 
-The demo should avoid:
+The artifact should avoid:
 
 - private implementation details;
 - raw local logs;
 - private marker values;
 - internal file paths;
+- internal report filenames;
+- protected hashes;
 - unpublished working notes;
 - claims that are stronger than the result.
 
@@ -39,6 +69,14 @@ The demo should avoid:
 The output should be readable without knowing the private project.
 
 An outside reviewer should be able to see:
+
+- which body-contour candidates are being compared;
+- what public-safe reading is attached to each contour;
+- whether the contours stay distinct;
+- what the result might suggest;
+- what the result does not prove.
+
+For a later event-reading artifact, an outside reviewer should be able to see:
 
 - what the event was;
 - what final answer was selected;
@@ -50,40 +88,61 @@ An outside reviewer should be able to see:
 
 A useful first comparison could be:
 
+- show quiet baseline, fatigue, recovery, stress, and rhythm as separate body-contour candidates;
+- give each one a small public-safe reading;
+- check whether they stay distinct or collapse into one generic label.
+
+A later event-reading comparison could be:
+
 - show the same small event as a direct text task;
 - show it as a Garmon-shaped public example with an event-reading step;
 - compare whether the final answer follows a clearer public direction.
 
-This comparison should stay small. A tiny repeatable check is better than a large unclear demo.
+Both comparisons should stay small. A tiny repeatable check is better than a large unclear demo.
 
 ## Success Criteria
 
-The demo is useful if:
+The first public artifact is useful if:
 
-- it is easy to run or inspect;
+- it is easy to inspect;
 - it does not expose private internals;
+- the body-contour distinction is understandable;
 - it avoids strong claims;
 - it produces a clear next technical question;
 - it can be improved after review.
 
 ## Failure Criteria
 
-The demo is not ready if:
+The artifact is not ready if:
 
 - it depends on private files;
 - it only shows different wording;
+- body-contour differences collapse into vague labels;
 - it requires trust in hidden steps;
 - it sounds like a finished product;
-- it cannot be repeated by an outside reader.
+- it cannot be repeated or inspected by an outside reader.
+
+## Boundary
+
+The first public artifact must not imply:
+
+- live behavior;
+- memory;
+- truth;
+- final speech;
+- behavior authority;
+- command authority;
+- implementation permission;
+- proof of life.
 
 ## Next Action
 
-The next action is to design the smallest public-safe demo artifact:
+The next action is to design the smallest public-safe body-contour artifact:
 
-- event;
-- final answer;
-- public-safe summary;
+- contour set;
+- public-safe readings;
 - comparison note;
+- boundary section;
 - limits.
 
-Only after that should code or runnable material be added.
+Only after that should runnable code, interactive demo material, or event-reading demo code be considered.
