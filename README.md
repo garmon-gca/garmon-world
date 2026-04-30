@@ -50,26 +50,37 @@ Point:
 
 For the short standalone version, see [One-minute example](docs/ONE_MINUTE_EXAMPLE.md).
 
+## Current Public-Safe Achievement
+
+Garmon now has a static/shadow evidence layer around **Body Shadow**.
+
+Static checks show that several body-contour candidates remain distinguishable before LLM speech: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
+
+The achievement is not louder wording. The achievement is a more inspectable pre-speech layer: body contours can move toward meaning and passive context while preserving the boundary that contours do not become command, memory, speech, behavior, or implementation permission.
+
+For the current status, see [Public current status](docs/PUBLIC_CURRENT_STATUS.md). For the Body Shadow summary, see [Public Body Shadow checks](docs/PUBLIC_BODY_SHADOW_CHECKS.md).
+
 ## Current Status
 
 - Public research preview: yes.
+- Static/shadow evidence layer: Body Shadow and the static choice-chain boundary are now summarized publicly.
 - Interactive public demo: not yet.
 - Public docs: yes.
 - Internal prototype: exists, but this repository only contains public-facing materials.
-- Public evidence: limited public-safe note.
-- Next step: minimal reproducible demo artifact.
+- Public evidence: limited public-safe summaries.
+- Next step: minimal reviewable demo artifact.
 
 This repository is a public research preview. It explains the idea, boundaries, and path toward a small reviewable demo. It is not yet an interactive demo.
 
 ## What To Read First
 
 1. [Project overview](docs/PROJECT_OVERVIEW.md)
-2. [One-minute example](docs/ONE_MINUTE_EXAMPLE.md)
-3. [Public boundaries](docs/PUBLIC_BOUNDARIES.md)
-4. [Demo spec V0](docs/DEMO_SPEC_V0.md)
-5. [For reviewers](docs/FOR_REVIEWERS.md)
+2. [Public current status](docs/PUBLIC_CURRENT_STATUS.md)
+3. [Public Body Shadow checks](docs/PUBLIC_BODY_SHADOW_CHECKS.md)
+4. [Public engineering contracts](docs/PUBLIC_ENGINEERING_CONTRACTS.md)
+5. [One-minute example](docs/ONE_MINUTE_EXAMPLE.md)
 
-The most useful feedback right now is about clarity, safety of claims, and how to make the first demo easy to review.
+The most useful feedback right now is about clarity, safety of claims, and how to make the first public artifact easy to review.
 
 ## What Garmon Does Not Claim
 
@@ -80,11 +91,12 @@ Garmon does not claim to be:
 - general intelligence;
 - subjective experience;
 - mature autonomy;
-- external validation.
+- external validation;
+- an interactive public demo.
 
-The current public framing is modest:
+The current public framing is modest but no longer empty:
 
-> Garmon is an early research prototype for studying how an event can receive a visible body-born meaning before final LLM speech.
+> Garmon is an early research prototype for studying how body-contour distinction can appear before final LLM speech while remaining separate from command authority.
 
 ## Author And Working Style
 
@@ -98,6 +110,8 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [FAQ](docs/FAQ.md)
 - [Публичный FAQ на русском](docs/PUBLIC_FAQ_RU.md)
 - [Public glossary](docs/GLOSSARY_PUBLIC.md)
+- [Public current status](docs/PUBLIC_CURRENT_STATUS.md)
+- [Public Body Shadow checks](docs/PUBLIC_BODY_SHADOW_CHECKS.md)
 - [Public engineering contracts](docs/PUBLIC_ENGINEERING_CONTRACTS.md)
 - [Public memory and residue boundaries](docs/PUBLIC_MEMORY_RESIDUE_BOUNDARIES.md)
 - [Demo brief](docs/DEMO_BRIEF.md)

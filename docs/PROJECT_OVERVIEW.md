@@ -24,11 +24,25 @@ Simple shape:
 bodily background -> embodied event meaning -> inclination -> response direction -> LLM speech -> final answer
 ```
 
+## What Has Become Visible
+
+Recent public-safe work makes the pre-speech path more concrete.
+
+Static Body Shadow checks show that several body-contour candidates remain distinguishable before LLM speech: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
+
+A static/shadow evidence chain also preserves boundaries across the pre-speech path:
+
+```text
+body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership -> behavior boundary
+```
+
+The achievement is inspectability before speech. It is not louder wording, and it is not a claim that private runtime is published here.
+
 ## Public Stage
 
-Garmon is currently in a pre-demo research stage.
+Garmon is currently in a public research preview stage.
 
-This repository is a public research preview: it explains the idea, boundaries, and planned path toward a small reviewable demo. It is not yet an interactive demo.
+This repository explains the idea, boundaries, and planned path toward a small reviewable demo artifact. It is not yet an interactive demo.
 
 ## Why This May Matter
 
@@ -42,15 +56,17 @@ This direction may be useful for:
 - technical review of meaning before speech;
 - distinguishing useful prior context from text noise.
 
+The more specific current value is body-contour distinction before final text. If quiet baseline, fatigue, recovery, stress, and rhythm stay separable before speech, the public review surface becomes clearer than a final answer alone.
+
 ## Current Public Milestone
 
-The project has early internal evidence of short distinctions in controlled local review.
+Garmon now has a public-safe static/shadow evidence layer.
 
-The public interpretation is intentionally cautious:
+It shows:
 
-- this is early;
-- it is not enough for strong claims;
-- the public demo path still needs a reproducible artifact;
-- independent review is still needed.
+- distinguishable body-contour candidates before speech;
+- negative controls that catch forbidden authority leaks;
+- static sequence coherence between simple contour transitions;
+- preserved boundaries: contours do not become command, memory, speech, behavior, truth, or implementation permission.
 
-The next useful step is a small reproducible demo that shows how an event is read before final speech, without exposing private internals.
+The next useful step is a small public artifact that shows this contour distinction and boundary clearly, without exposing private internals.
