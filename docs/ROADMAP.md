@@ -2,7 +2,7 @@
 
 This roadmap is intentionally small.
 
-It now separates two things:
+It separates two things:
 
 - what Garmon has already made inspectable in public-safe form;
 - what still needs a small public artifact before broader review.
@@ -32,7 +32,7 @@ Status: active.
 
 The first artifact does not have to be a chat demo.
 
-A useful first artifact may be a small body-contour distinction artifact showing that quiet baseline, fatigue, recovery, stress, and rhythm remain distinguishable before speech.
+A useful first artifact may be a small body-contour distinction artifact showing that quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm remain distinguishable before speech.
 
 It should include:
 
@@ -51,7 +51,7 @@ It should include:
 - one visible event;
 - close response directions;
 - a public event reading;
-- final speech from the selected direction;
+- final answer from the selected direction;
 - a limits section.
 
 ## Step 5: External Review
@@ -69,6 +69,7 @@ These may become public-safe documents or artifacts later:
 - controlled implementation gate explanation;
 - memory/residue reader boundaries;
 - body-time rhythm boundaries;
+- evidence/reports boundary;
 - stronger comparison artifacts.
 
 ## Not On The Roadmap Yet
@@ -76,6 +77,7 @@ These may become public-safe documents or artifacts later:
 - product launch;
 - public API;
 - commercial deployment;
+- live/runtime proof;
 - interactive public chat demo as proof;
 - broad community promises;
 - strong claims about the nature of the system.
