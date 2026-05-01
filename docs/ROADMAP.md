@@ -24,7 +24,6 @@ Status: done.
 - Keep private internals out of the public layer.
 - Define what can be summarized safely.
 - Define what the public summaries do and do not show.
-- Define public recovery/residue boundary tests before any memory-like claim.
 
 Status: active.
 
@@ -34,25 +33,13 @@ The first artifact does not have to be a chat demo.
 
 A useful first artifact may be a small body-contour distinction artifact showing that quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm remain distinguishable before speech.
 
-It should include:
-
-- a small public contour set;
-- public-safe readings;
-- a clear comparison;
-- visible limits;
-- no private implementation details.
+It should include a small public contour set, public-safe readings, a clear comparison, visible limits, and no private implementation details.
 
 ## Step 4: Event-Reading Demo Artifact
 
 After the body-contour artifact, a small event-reading artifact can show how a visible event receives a public reading before final LLM speech.
 
-It should include:
-
-- one visible event;
-- close response directions;
-- a public event reading;
-- final answer from the selected direction;
-- a limits section.
+It should include one visible event, close response directions, a public event reading, a final answer following the response direction used, and a limits section.
 
 ## Step 5: External Review
 
@@ -63,14 +50,7 @@ It should include:
 
 ## Future Public Topics
 
-These may become public-safe documents or artifacts later:
-
-- public-safe capsule / speech boundary;
-- controlled implementation gate explanation;
-- memory/residue reader boundaries;
-- body-time rhythm boundaries;
-- evidence/reports boundary;
-- stronger comparison artifacts.
+These may become public-safe documents or artifacts later: public-safe capsule / speech boundary, controlled implementation gate explanation, memory/residue reader boundaries, body-time rhythm boundaries, evidence/reports boundary, and stronger comparison artifacts.
 
 ## Not On The Roadmap Yet
 

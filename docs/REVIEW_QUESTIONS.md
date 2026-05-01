@@ -14,7 +14,7 @@ These are the first questions for technical readers.
 
 - What should a public static artifact show to be useful but not overclaiming?
 - How can negative controls be explained simply enough for a non-insider technical reader?
-- What would make the difference between “valid contour distinction” and “forbidden authority leak” easy to review?
+- What would make the difference between valid contour distinction and forbidden authority leak easy to review?
 - How can the repository show achievement first while keeping the boundary visible?
 - Where might static/shadow evidence accidentally sound like live behavior?
 
@@ -22,8 +22,6 @@ These are the first questions for technical readers.
 
 - What is the smallest body-contour artifact that would be meaningful to review?
 - Should the first artifact be a body-contour distinction table before any runnable demo?
-- What should the artifact show first: contour distinction, boundary, or comparison?
-- What would make the artifact easy to inspect in under one minute?
 - What should the artifact avoid so it does not sound like an interactive demo?
 
 ## Event Meaning
@@ -32,13 +30,6 @@ These are the first questions for technical readers.
 - What minimal checks are useful for comparing a direct text answer with a Garmon-shaped public example?
 - Which parts of the pre-speech path should be visible in a later public demo?
 - How can event meaning be shown without turning the public event reading into a fixed label or command?
-
-## Reproducibility
-
-- What is the smallest artifact that is still meaningful?
-- How can an artifact avoid private internals while still showing enough evidence?
-- What should be summarized in a public-safe way?
-- What comparison would be fair without requiring trust in hidden steps?
 
 ## Safety
 
@@ -51,6 +42,5 @@ These are the first questions for technical readers.
 
 - Where should event meaning end and LLM speech begin?
 - How can final text avoid becoming the only visible source of meaning?
-- What evaluation would distinguish a useful event-reading step from nicer wording?
 - How can a public-safe capsule or speech surface be described without implying that speech is the source of choice?
-- How can we keep the public framing clear that LLM speech comes after the selected direction, not before it?
+- How can we keep the public framing clear that LLM speech comes after the response direction used, not before it?

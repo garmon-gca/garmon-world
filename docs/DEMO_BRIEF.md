@@ -17,96 +17,24 @@ The first direction may be the better first artifact, because Body Shadow is the
 
 ## Current Public-Safe Achievement
 
-Body Shadow static checks show that several body-contour candidates remain distinguishable before speech.
-
-Examples include:
-
-- quiet baseline;
-- fatigue;
-- recovery;
-- stress;
-- mixed stress/recovery;
-- night/downshift;
-- day/wake support.
+Body Shadow static checks show that several body-contour candidates remain distinguishable before speech: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, night/downshift, and day/wake support.
 
 The important result is not stronger wording. The important result is that these contours do not collapse into one generic label before final text is written.
 
 ## What The First Artifact Should Show
 
-A useful first public artifact should show:
+A useful first public artifact should show a small set of body-contour candidates, a simple public-safe reading for each contour, a comparison showing that the contours stay distinct, and a clear note about what the result does and does not show.
 
-- a small set of body-contour candidates;
-- a simple public-safe reading for each contour;
-- a comparison showing that the contours stay distinct;
-- a clear note about what the result does and does not show.
-
-A later event-reading demo may also show:
-
-- the visible event or task;
-- the final answer;
-- a public-safe note about the event reading;
-- a comparison between two close response directions;
-- a clear note about what the result does and does not show.
+A later event-reading demo may also show the visible event or task, the final answer following the response direction used, a public-safe note about the event reading, a comparison between two close response directions, and a clear note about what the result does and does not show.
 
 ## What The Artifact Should Not Show
 
-The artifact should not expose:
-
-- private workbench files;
-- raw internal logs;
-- exact private control details;
-- private marker values;
-- local machine paths;
-- unpublished research notes;
-- internal report filenames;
-- protected hashes;
-- private owner paths.
-
-## Expected Public Output
-
-The public output should be small and readable.
-
-For a body-contour artifact, it may include:
-
-- a short contour list;
-- public-safe readings;
-- a small comparison table;
-- a short explanation of the boundary.
-
-For a later event-reading demo, it may include:
-
-- a short event;
-- the selected answer;
-- a public-safe summary of the event reading;
-- a short explanation of the limits;
-- a reproducible command or script when ready.
-
-## Success Criteria
-
-The first public artifact should be considered useful if:
-
-- an outside reader can inspect it quickly;
-- the output is small enough to review;
-- the body-contour distinction is understandable;
-- the claims remain modest;
-- the private internals remain private;
-- the result suggests a next technical question.
+The artifact should not expose private workbench files, raw internal logs, exact private control details, private marker values, local machine paths, unpublished research notes, internal report filenames, protected hashes, or private owner paths.
 
 ## Boundary
 
-A body-contour artifact must not imply that the contours are commands.
-
-It must not imply:
-
-- live behavior;
-- memory;
-- truth;
-- final speech;
-- behavior authority;
-- implementation permission.
+A body-contour artifact must not imply that the contours are commands. It must not imply live behavior, memory, truth, final speech, behavior authority, or implementation permission.
 
 ## Non-Goal
 
-The first public artifact is not meant to prove a big claim.
-
-It is meant to show a small, inspectable achievement: body-contour distinction before speech, with the boundary preserved.
+The first public artifact is not meant to prove a big claim. It is meant to show a small, inspectable achievement: body-contour distinction before speech, with the boundary preserved.

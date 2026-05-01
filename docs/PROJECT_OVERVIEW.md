@@ -18,9 +18,9 @@ This is an engineering and research direction: make the pre-speech layer easier 
 
 In these public notes, body-born meaning means a high-level event-reading step. It is not a biological claim and does not imply subjective experience.
 
-Simple shape:
-
-    bodily background -> body-born event meaning -> inclination -> response direction -> LLM speech -> final answer
+```text
+bodily background -> body-born event meaning -> inclination -> response direction -> LLM speech -> final answer
+```
 
 ## What Has Become Visible
 
@@ -30,7 +30,13 @@ Static Body Shadow checks show that several body-contour candidates remain disti
 
 A static/shadow evidence chain also preserves boundaries across the pre-speech path:
 
-    body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership -> behavior boundary
+```text
+body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership -> behavior boundary -> pre-selected result boundary candidate (synthetic)
+```
+
+This chain means that body-contour candidates can move toward meaning and passive context while preserving the boundary that they do not become commands, memory, behavior, truth, or implementation permission.
+
+The final link, the **pre-selected result boundary candidate**, is a synthetic marker only. It identifies the door just before an actual selected result. The door remains closed: there is no public claim of a selected result, live choice, behavior, memory influence, application authority, or runtime proof.
 
 The achievement is inspectability before speech. It is not louder wording, and it is not a claim that private runtime is published here.
 
@@ -42,7 +48,7 @@ This repository explains the idea, boundaries, and planned path toward a small r
 
 ## Why This May Matter
 
-This direction may be useful for:
+Possible future relevance, not current product claims:
 
 - safer response shaping;
 - believable digital characters;
@@ -63,6 +69,7 @@ It shows:
 - distinguishable body-contour candidates before speech;
 - negative controls that catch forbidden authority leaks;
 - static sequence coherence between simple contour transitions;
-- preserved boundaries: contours do not become command, memory, speech, behavior, truth, or implementation permission.
+- preserved boundaries: contours do not become command, memory, speech, behavior, truth, or implementation permission;
+- a closed static choice chain from body contour through behavior boundary, with the passive chain extended to a pre-selected result boundary candidate (synthetic evidence only).
 
 The next useful step is a small public artifact that shows this contour distinction and boundary clearly, without exposing private internals.
