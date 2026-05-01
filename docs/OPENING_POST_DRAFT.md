@@ -73,9 +73,7 @@ Before posting:
 
 ## Short WhatsApp Feedback Request
 
-Hi everyone. I am an independent builder and I am new to the AI safety / agent-design space.
-
-I am working on a small early research prototype called Garmon.
+Hi everyone. I am an independent builder working on a small early research prototype called Garmon.
 
 It explores "body-born meaning before LLM speech": a public research framing for the step where an event receives a readable meaning before the LLM writes final words.
 
