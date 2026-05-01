@@ -16,13 +16,10 @@ The current public layer should show what has become inspectable without publish
 - Event reading as a public review surface, not as a command or private mechanism.
 - The LLM as a speech layer.
 - The difference between an event-reading step and final wording.
-- The difference between contour visibility and command authority.
 - Public-safe capsule as an outward container, not as the organism.
 - Controlled implementation gate as a public boundary principle.
 - Public artifact and demo planning.
-- Reproducibility questions.
-- Technical review questions.
-- Limits and uncertainty.
+- The closed static choice chain and the passive chain reaching a pre-selected result boundary candidate in synthetic evidence, while emphasizing that the door remains closed and no actual selected result is claimed.
 
 ## Not Published Here
 
@@ -51,12 +48,6 @@ Good:
 
 > The boundary is preserved: contours do not become commands.
 
-> The achievement comes first, the boundary stays visible.
-
-> technical review welcome
-
-> small public artifact needed
-
 Avoid:
 
 > finished system
@@ -73,6 +64,6 @@ Avoid:
 
 The first goal is to show a small inspectable achievement without overstating it.
 
-The current achievement is Body Shadow: body-contour candidates can be inspected before speech while remaining separate from command, memory, behavior, truth, and implementation permission.
+The current achievement is Body Shadow: body-contour candidates can be inspected before speech while remaining separate from command, memory, behavior, truth, and implementation permission. The static choice chain closure and the synthetic pre-selected result boundary candidate extend this achievement without opening the door to actual selection or live behavior.
 
 The goal is better technical review, not hype.

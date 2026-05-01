@@ -52,18 +52,20 @@ For the short standalone version, see [One-minute example](docs/ONE_MINUTE_EXAMP
 
 ## Current Public-Safe Achievement
 
-Garmon now has a static/shadow evidence layer around **Body Shadow**.
+Garmon now has a static/shadow evidence layer around **Body Shadow**, and the first static choice chain has been closed as public-safe evidence.
 
 Static checks show that several body-contour candidates remain distinguishable before LLM speech: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
 
-The achievement is not louder wording. The achievement is a more inspectable pre-speech layer: body contours can move toward meaning and passive context while preserving the boundary that contours do not become command, memory, speech, behavior, or implementation permission.
+The achievement is not louder wording. The achievement is a more inspectable pre-speech layer: body contours can move toward meaning candidates and passive context while preserving the boundary that contours do not become command, memory, speech, behavior, truth, or implementation permission.
+
+A recent synthetic update extends the passive chain to a **pre-selected result boundary candidate**. This means the path from body to the door just before an actual selected result is now marked, but the door remains closed. There is still **no** public claim of a selected result, live choice, behavior, memory influence, application authority, or runtime proof.
 
 For the current status, see [Public current status](docs/PUBLIC_CURRENT_STATUS.md). For the Body Shadow summary, see [Public Body Shadow checks](docs/PUBLIC_BODY_SHADOW_CHECKS.md).
 
 ## Current Status
 
 - Public research preview: yes.
-- Static/shadow evidence layer: Body Shadow and the static choice-chain boundary are now summarized publicly.
+- Static/shadow evidence layer: Body Shadow, the static choice-chain closure, and the passive chain reaching a pre-selected result boundary candidate (synthetic evidence only) are now summarized publicly.
 - Interactive public demo: not yet.
 - Public docs: yes.
 - Internal prototype: exists, but this repository only contains public-facing materials.
@@ -84,15 +86,7 @@ The most useful feedback right now is about clarity, safety of claims, and how t
 
 ## What Garmon Does Not Claim
 
-Garmon does not claim to be:
-
-- a finished product;
-- a new trained language model;
-- general intelligence;
-- subjective experience;
-- mature autonomy;
-- external validation;
-- an interactive public demo.
+Garmon does not claim to be a finished product, a new trained language model, general intelligence, subjective experience, mature autonomy, external validation, an interactive public demo, or a system with public live behavior or actual selected results.
 
 The current public framing is modest but no longer empty:
 
@@ -100,15 +94,17 @@ The current public framing is modest but no longer empty:
 
 ## Author And Working Style
 
-Garmon is created by Vitaliy, an independent builder learning through practice, discussion, and AI-assisted work.
+Garmon is created by Vitaliy, an independent self-taught builder.
 
-AI tools may help with translation, drafts, structure, and safety review. Vitaliy remains responsible for project direction and publication decisions.
+The project has been developed through practical work, repeated boundary reviews, static/shadow checks, negative controls, and AI-assisted engineering review.
+
+AI tools may help with translation, drafts, structure, and safety review. Vitaliy remains responsible for project direction, public claims, and publication decisions.
 
 ## Additional Materials
 
 - [Russian overview](docs/RU_OVERVIEW.md)
 - [FAQ](docs/FAQ.md)
-- [Публичный FAQ на русском](docs/PUBLIC_FAQ_RU.md)
+- [Public FAQ in Russian](docs/PUBLIC_FAQ_RU.md)
 - [Public glossary](docs/GLOSSARY_PUBLIC.md)
 - [Public current status](docs/PUBLIC_CURRENT_STATUS.md)
 - [Public Body Shadow checks](docs/PUBLIC_BODY_SHADOW_CHECKS.md)

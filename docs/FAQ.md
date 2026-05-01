@@ -6,7 +6,7 @@ Garmon is an early research prototype for studying body-born meaning before LLM 
 
 The public idea is simple: the LLM writes the final words, while the project studies the step where an event receives meaning before those words are written.
 
-Here, "body-born meaning" means a public, high-level event-reading step before LLM speech. It is not a claim of biological life or subjective experience.
+Here, body-born meaning means a public, high-level event-reading step before LLM speech. It is not a claim of biological life or subjective experience.
 
 ## What has been shown so far?
 
@@ -14,70 +14,36 @@ The current public-safe achievement is Body Shadow.
 
 Static checks show that several body-contour candidates remain distinguishable before LLM speech: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
 
-This matters because the achievement is not stronger wording. The achievement is a more inspectable pre-speech layer.
+In addition, the first static choice chain has been closed as public-safe evidence:
 
-The boundary is preserved: Body Shadow is not an interactive demo, not live behavior, and not a claim that the private mechanism is published.
+```text
+body contour -> meaning candidate -> passive context -> choice visibility -> choice ownership -> behavior boundary
+```
+
+A recent synthetic update extends the passive chain to a pre-selected result boundary candidate. This is a marker next to the door of selection. The door remains closed: there is no public claim of a selected result, live choice, behavior, memory influence, application authority, or runtime proof.
 
 ## Is Garmon a chatbot?
 
-Not exactly.
-
-A chatbot usually centers on conversation and final replies.
-
-Garmon is focused on what happens before speech appears: how an event receives meaning, how body-contour candidates remain distinguishable, and how the final words stay separate from the earlier review surface.
+Not exactly. A chatbot usually centers on conversation and final replies. Garmon is focused on what happens before speech appears.
 
 The repository is not an interactive demo yet. It is a public research preview.
 
 ## Is Body Shadow a command system?
 
-No.
-
-Body Shadow is a public-safe review surface for body-contour distinction.
-
-A body contour can be inspected before speech, but it does not become command authority, memory, behavior, truth, or final speech.
+No. Body Shadow is a public-safe review surface for body-contour distinction. A body contour can be inspected before speech, but it does not become command authority, memory, behavior, truth, or final speech.
 
 ## Is Garmon a new language model?
 
-No.
-
-Garmon does not train a new base model. It studies the path around an LLM speech layer: visible event reading, body-contour distinction, boundaries, response direction, and reviewable public examples.
-
-This can be relevant to AI safety, agent design, and LLM-system review, but Garmon is not presented here as a finished agent or product.
+No. Garmon does not train a new base model. It studies the path around an LLM speech layer: visible event reading, body-contour distinction, boundaries, response direction, and reviewable public examples.
 
 ## Is this a finished product?
 
-No.
-
-This repository is a public-safe entry point for a research prototype. It is not a product launch.
+No. This repository is a public-safe entry point for a research prototype. It is not a product launch.
 
 ## What can be reviewed now?
 
-At this stage, reviewers can look at:
-
-- the public framing;
-- the Body Shadow / body-contour distinction summary;
-- the safety boundaries;
-- the proposed body-contour artifact direction;
-- the later event-reading demo direction;
-- the review questions;
-- the wording of claims and limits.
-
-More technical materials may be added later when they are safe to publish.
-
-## Why keep the public materials careful?
-
-Because early research can easily sound stronger than the evidence allows.
-
-This repository should show what has become inspectable without turning that achievement into a stronger claim than it supports.
+Reviewers can look at the public framing, Body Shadow summary, closed static choice chain, synthetic pre-selected result boundary candidate, safety boundaries, artifact direction, review questions, and wording of claims and limits.
 
 ## Does Garmon use AI tools in its public materials?
 
-Yes, AI tools may help with translation, structure, drafting, and safety review.
-
-Vitaliy remains responsible for the project direction and for publication decisions.
-
-## Can I use the materials here?
-
-For now, treat this repository as a public research note and orientation page.
-
-A license may be added later when the public scope is clearer.
+Yes, AI tools may help with translation, structure, drafting, and safety review. Vitaliy remains responsible for the project direction and for publication decisions.
