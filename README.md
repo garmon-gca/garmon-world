@@ -4,7 +4,21 @@
 
 # Garmon World
 
-**Garmon** is an early research prototype about body-born meaning before LLM speech.
+**Garmon** is an early research prototype about how an AI system can read an event through internal state before an LLM writes the final answer.
+
+## Plain-Language Version
+
+Garmon studies what happens before an LLM writes a final answer.
+
+In a normal chatbot, the system usually starts from the text request and generates a reply.
+
+Garmon explores a different layer: first, the system reads the event through an internal state model — for example calm baseline, stress, fatigue, or recovery — and forms a response direction. Only after that does the LLM turn the direction into words.
+
+This is what this repository calls **body-born meaning before LLM speech**.
+
+It is not biological life and not subjective experience. It is an early research prototype for making the layer before final speech easier to inspect.
+
+## Core Idea
 
 In many AI projects, a request is treated mainly as a text task:
 
@@ -12,21 +26,27 @@ In many AI projects, a request is treated mainly as a text task:
 request -> analysis -> plan -> answer
 ```
 
-Garmon explores a different question: what if the request is first treated as an event that meets an inner bodily background?
+Garmon explores a different question:
+
+> what if the request is first treated as an event that meets an internal state?
 
 The public idea is modest. The LLM writes the final words, but the path before speech should not be reduced to prompt text alone.
 
-Here, "body-born meaning" is a public research term for a high-level event-reading step before LLM speech. It is not a claim of biological life, subjective experience, or a finished autonomous system.
+In this repository, **pre-speech** means the layer before the LLM writes the final answer.
+
+**Body-born meaning** means that the event is read through an internal state model before final speech.
 
 ```text
-bodily background -> embodied event meaning -> inclination -> response direction -> LLM speech -> final answer
+internal state -> event reading -> response direction -> LLM speech -> final answer
 ```
 
 The useful question is simple:
 
 > can the meaning of an event before speech be made easier to inspect?
 
-For readers familiar with AI safety, agent design, or LLM systems, this can be understood as research around the pre-speech layer of an LLM-based system. The repository does not present Garmon as a finished agent or product.
+For readers familiar with AI safety, agent design, or LLM systems, this can be understood as research around the pre-speech layer of an LLM-based system.
+
+The repository does not present Garmon as a finished agent, product, biological system, or autonomous system.
 
 ## One-Minute Example
 
@@ -40,8 +60,8 @@ Plain text-task shape:
 
 Garmon-shaped public example:
 
-- the system first gives the event a safe public reading, such as lowering intensity or keeping contact without pressure;
-- a response direction is selected from that reading;
+- the system first reads the event through an internal state model;
+- that reading forms a response direction, such as lowering intensity or keeping contact without pressure;
 - the LLM speech layer writes the final words from that direction.
 
 Point:
@@ -58,21 +78,23 @@ Static checks show that several body-contour candidates remain distinguishable b
 
 The achievement is not louder wording. The achievement is a more inspectable pre-speech layer: body contours can move toward meaning candidates and passive context while preserving the boundary that contours do not become command, memory, speech, behavior, truth, or implementation permission.
 
-A recent synthetic update extends the passive chain to a **pre-selected result boundary candidate**. This means the path from body to the door just before an actual selected result is now marked, but the door remains closed. There is still **no** public claim of a selected result, live choice, behavior, memory influence, application authority, or runtime proof.
+A recent synthetic update extends the passive chain to a **pre-selected result boundary candidate**. This means the path from body to the door just before an actual selected result is now marked, but the door remains closed.
+
+There is still **no** public claim of a selected result, live choice, behavior, memory influence, application authority, or runtime proof.
 
 For the current status, see [Public current status](docs/PUBLIC_CURRENT_STATUS.md). For the Body Shadow summary, see [Public Body Shadow checks](docs/PUBLIC_BODY_SHADOW_CHECKS.md).
 
 ## Current Status
 
 - Public research preview: yes.
-- Static/shadow evidence layer: Body Shadow, the static choice-chain closure, and the passive chain reaching a pre-selected result boundary candidate (synthetic evidence only) are now summarized publicly.
+- Static/shadow evidence layer: Body Shadow, the static choice-chain closure, and the passive chain reaching a pre-selected result boundary candidate are now summarized publicly.
 - Interactive public demo: not yet.
 - Public docs: yes.
 - Internal prototype: exists, but this repository only contains public-facing materials.
 - Public evidence: limited public-safe summaries.
-- Next step: minimal reviewable demo artifact.
+- Next step: minimal reviewable public artifact.
 
-This repository is a public research preview. It explains the idea, boundaries, and path toward a small reviewable demo. It is not yet an interactive demo.
+This repository is a public research preview. It explains the idea, boundaries, and path toward a small reviewable artifact. It is not yet an interactive demo.
 
 ## What To Read First
 
@@ -86,7 +108,18 @@ The most useful feedback right now is about clarity, safety of claims, and how t
 
 ## What Garmon Does Not Claim
 
-Garmon does not claim to be a finished product, a new trained language model, general intelligence, subjective experience, mature autonomy, external validation, an interactive public demo, or a system with public live behavior or actual selected results.
+Garmon does not claim to be:
+
+- a finished product;
+- a new trained language model;
+- general intelligence;
+- biological life;
+- subjective experience;
+- mature autonomy;
+- externally validated;
+- an interactive public demo;
+- a system with public live behavior;
+- a system with actual selected results.
 
 The current public framing is modest but no longer empty:
 
@@ -94,7 +127,7 @@ The current public framing is modest but no longer empty:
 
 ## Author and Working Style
 
-Garmon is created by Vitaliy, an independent self-taught builder whose work is driven by practical review cycles, direct discussion, and AI-assisted drafting/safety checks.
+Garmon is created by Vitaliy, an independent self-taught builder whose work is driven by practical review cycles, direct discussion, and AI-assisted drafting and safety checks.
 
 The project has been developed through practical work, repeated boundary reviews, static/shadow checks, negative controls, and AI-assisted engineering review.
 
