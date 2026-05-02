@@ -18,10 +18,27 @@ These are the first questions for technical readers.
 - How can the repository show achievement first while keeping the boundary visible?
 - Where might static/shadow evidence accidentally sound like live behavior?
 
+## Static Choice Chain
+
+- Is the static choice chain understandable as a bounded public-safe review surface?
+- Is it clear that this chain does not claim live chooser input, live choice, behavior, memory influence, application authority, or runtime proof?
+- Does the sequence from body contour to meaning candidate, passive context, choice visibility, choice ownership, and behavior boundary make sense to an outside technical reader?
+- Which step in the chain needs the clearest explanation?
+- Where might the phrase "choice chain" accidentally sound too strong?
+
+## Pre-Selected Result Boundary
+
+- Is the pre-selected result boundary candidate clearly described as synthetic evidence only?
+- Is it clear that the boundary names the door before an actual selected result but does not open that door?
+- What wording best prevents readers from mistaking this marker for an actual selected result?
+- Should this boundary be shown visually in a public artifact, or kept as a short textual note?
+- What would make the boundary easy to review without publishing private internals?
+
 ## Public Artifact
 
 - What is the smallest body-contour artifact that would be meaningful to review?
 - Should the first artifact be a body-contour distinction table before any runnable demo?
+- Should the static choice chain be included in the first artifact, or kept as a separate status note?
 - What should the artifact avoid so it does not sound like an interactive demo?
 
 ## Event Meaning
@@ -36,7 +53,7 @@ These are the first questions for technical readers.
 - How can public boundaries be shown without exposing private control details?
 - How can the project avoid strong claims while still showing what has been achieved?
 - What wording keeps the work honest and technically useful?
-- Where might the text accidentally imply live interaction, behavior authority, memory authority, or speech authority?
+- Where might the text accidentally imply live interaction, behavior authority, memory authority, selected-result authority, or speech authority?
 
 ## Speech Layer
 
