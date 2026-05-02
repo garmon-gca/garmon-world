@@ -133,7 +133,24 @@ The project has been developed through practical work, repeated boundary reviews
 
 AI tools may help with translation, drafts, structure, and safety review. Vitaliy remains responsible for project direction, public claims, and publication decisions.
 
+## Contact
+
+For now, this repository is a calm public entry point. More contact details and demo materials may be added later.
+
+## Public Artifact Status
+
+The next public artifact is planned as a small, reviewable body-contour distinction artifact.
+
+It should stay public-safe: no private implementation details, no raw logs, no local paths, no runtime internals, and no claim of live choice or actual selected results.
+
+Until that artifact is ready, the repository should be read as a public research preview with bounded static/shadow evidence, not as a runnable public demo.
+
 ## Additional Materials
+
+The most important pages are listed above. More public-safe notes are available in the docs folder.
+
+<details>
+<summary>Show all public materials</summary>
 
 - [Russian overview](docs/RU_OVERVIEW.md)
 - [FAQ](docs/FAQ.md)
@@ -157,14 +174,4 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 - [Security](SECURITY.md)
 - [License status](docs/LICENSE_STATUS.md)
 
-## Contact
-
-For now, this repository is a calm public entry point. More contact details and demo materials may be added later.
-
-## Public Artifact Status
-
-The next public artifact is planned as a small, reviewable body-contour distinction artifact.
-
-It should stay public-safe: no private implementation details, no raw logs, no local paths, no runtime internals, and no claim of live choice or actual selected results.
-
-Until that artifact is ready, the repository should be read as a public research preview with bounded static/shadow evidence, not as a runnable public demo.
+</details>
