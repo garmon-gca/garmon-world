@@ -92,9 +92,9 @@ The current public framing is modest but no longer empty:
 
 > Garmon is an early research prototype for studying how body-contour distinction can appear before final LLM speech while remaining separate from command authority.
 
-## Author And Working Style
+## Author and Working Style
 
-Garmon is created by Vitaliy, an independent self-taught builder.
+Garmon is created by Vitaliy, an independent self-taught builder whose work is driven by practical review cycles, direct discussion, and AI-assisted drafting/safety checks.
 
 The project has been developed through practical work, repeated boundary reviews, static/shadow checks, negative controls, and AI-assisted engineering review.
 

@@ -6,7 +6,7 @@ This is a calm draft that may be adapted later for Habr, LinkedIn, a GitHub note
 
 ## Draft In Russian
 
-Я открыл небольшую public-safe витрину проекта Garmon:
+Я подготовил публичную public-safe витрину проекта Garmon:
 
     https://github.com/garmon-gca/garmon-world
 
@@ -43,21 +43,14 @@ Garmon — это ранний исследовательский прототи
 
 ## Shorter Variant
 
-Я открыл public-safe витрину Garmon:
+Я подготовил public-safe витрину Garmon:
 
     https://github.com/garmon-gca/garmon-world
 
 Garmon — ранний исследовательский прототип о телесном смысле события перед речью LLM.
 
-Текущий public-safe результат: Body Shadow.
-
-В статических проверках покой, усталость, восстановление, стресс и дневной/ночной ритм различаются до речи и не схлопываются в один общий ярлык.
-
-Главное здесь не более красивый текст, а проверяемый слой до речи.
-
-Граница сохранена: эти контуры не становятся командой, памятью, поведением или готовым live-режимом.
-
-Буду благодарен за спокойный технический взгляд: понятно ли описание, не звучат ли claims слишком сильно, и какой минимальный public artifact был бы честным.
+Полезнее всего честный технический взгляд на:
+понятно ли описание, не звучат ли claims слишком сильно, и какой минимальный демо-шаг был бы честным.
 
 ## Posting Rules
 
@@ -73,13 +66,13 @@ Before posting:
 
 ## Short WhatsApp Feedback Request
 
-Hi everyone. I am an independent builder working on a small early research prototype called Garmon.
+Hi everyone. I am an independent builder working on an early boundary-first research prototype.
 
 It explores "body-born meaning before LLM speech": a public research framing for the step where an event receives a readable meaning before the LLM writes final words.
 
 The current public-safe achievement is Body Shadow.
-
 Static checks show that several body-contour candidates, such as quiet baseline, fatigue, recovery, stress, and day/night rhythm, remain distinguishable before LLM speech.
+I recently published a small public-facing GitHub page and am seeking narrow technical feedback on:
 
 The important point is not stronger wording. The important point is a more inspectable pre-speech layer.
 
@@ -93,7 +86,7 @@ Repo:
 
     https://github.com/garmon-gca/garmon-world
 
-Even one sentence would help:
+A short technical check is especially useful:
 
 - clear / unclear;
 - too strong / modest enough;
