@@ -4,7 +4,7 @@
 
 # Garmon World
 
-**Garmon** is an early research prototype about how an AI system can read an event through internal state before an LLM writes the final answer.
+**Garmon** is an early research prototype for studying how internal state can shape the reading of an event before an LLM writes the final answer.
 
 ## Plain-Language Version
 
