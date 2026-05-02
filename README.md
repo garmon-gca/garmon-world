@@ -127,3 +127,15 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 ## Contact
 
 For now, this repository is a calm public entry point. More contact details and demo materials may be added later.
+
+## Daily Run Log
+
+Manual record for public-safe test runs. No architecture details or runtime internals.
+
+| Run # | Date | Time | Test | Result | Short note |
+| --- | --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  |  |  |
+| 5 |  |  |  |  |  |
