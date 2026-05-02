@@ -4,6 +4,8 @@ This checklist is for maintaining the public GitHub surface of Garmon World.
 
 It is no longer only a pre-public checklist. It should be used whenever public documents are updated, especially when new internal work needs to be translated into safe public language.
 
+Last reviewed: 2026-05-02.
+
 ## Repository Surface
 
 - README explains the project in simple language.
@@ -16,10 +18,12 @@ It is no longer only a pre-public checklist. It should be used whenever public d
 
 The public layer may now say:
 
-- Body Shadow is the current public-safe achievement.
+- Body Shadow is the first public-safe achievement.
 - Static checks show distinguishable body-contour candidates before LLM speech.
 - Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
 - Negative controls help show that forbidden authority leaks are caught.
+- The first static choice chain has been closed as public-safe evidence.
+- The passive chain reaches a synthetic pre-selected result boundary candidate.
 
 The achievement should be shown first.
 
@@ -30,6 +34,11 @@ The boundary should follow immediately after:
 - contours are not behavior;
 - contours are not truth;
 - contours are not final speech;
+- passive context is not chooser input;
+- choice visibility is not choice;
+- choice ownership is not transferred to context;
+- the pre-selected result boundary candidate is not an actual selected result;
+- static/shadow evidence is not runtime proof;
 - static/shadow evidence is not implementation permission.
 
 ## Safety
@@ -43,7 +52,10 @@ The boundary should follow immediately after:
 - No protected hashes are included.
 - No private owner paths are included.
 - No private schema details are included.
+- No hidden channels are included.
 - No strong claims are made.
+- No actual selected result is claimed.
+- No live choice, live behavior, memory influence, application authority, or runtime proof is claimed.
 
 ## Public Framing
 
@@ -51,6 +63,8 @@ The boundary should follow immediately after:
 - The LLM is described as the speech layer.
 - Body-born meaning is described at a high level only.
 - Body Shadow is described as a public-safe static check surface.
+- The static choice chain is described as public-safe evidence, not live execution.
+- The pre-selected result boundary candidate is described as a synthetic marker, not as a selected result.
 - The first public artifact may be a body-contour distinction artifact before any runnable demo.
 - External review is invited as feedback, not as validation.
 
@@ -68,8 +82,9 @@ The boundary should follow immediately after:
 When sharing the repository publicly:
 
 - do not post it everywhere at once;
-- lead with the Body Shadow achievement, not only disclaimers;
+- lead with the Body Shadow achievement and the bounded static chain, not only disclaimers;
 - keep the contour-not-command boundary visible;
+- keep the pre-selected boundary closed and clearly synthetic;
 - share it with one calm technical audience first;
 - save useful feedback;
 - do not answer sharp comments immediately;
@@ -83,6 +98,7 @@ Do not broaden public sharing if:
 - the README sounds too strong;
 - Body Shadow is described as live behavior;
 - static/shadow evidence sounds like implementation permission;
+- the pre-selected result boundary candidate sounds like an actual selected result;
 - the artifact/demo plan sounds like a finished result;
 - private material is accidentally included;
 - Vitaliy feels rushed.
@@ -91,6 +107,6 @@ Do not broaden public sharing if:
 
 Keep the public surface narrow, clear, and achievement-aware.
 
-Show the real public-safe result: distinguishable body-contour candidates before speech.
+Show the real public-safe result: distinguishable body-contour candidates before speech, a closed static choice chain, and a synthetic pre-selected result boundary candidate.
 
 Do not publish the private mechanism to make the project easier to explain.
