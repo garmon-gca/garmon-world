@@ -128,14 +128,10 @@ AI tools may help with translation, drafts, structure, and safety review. Vitali
 
 For now, this repository is a calm public entry point. More contact details and demo materials may be added later.
 
-## Daily Run Log
+## Public Artifact Status
 
-Manual record for public-safe test runs. No architecture details or runtime internals.
+The next public artifact is planned as a small, reviewable body-contour distinction artifact.
 
-| Run # | Date | Time | Test | Result | Short note |
-| --- | --- | --- | --- | --- | --- |
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
+It should stay public-safe: no private implementation details, no raw logs, no local paths, no runtime internals, and no claim of live choice or actual selected results.
+
+Until that artifact is ready, the repository should be read as a public research preview with bounded static/shadow evidence, not as a runnable public demo.
