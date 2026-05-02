@@ -147,7 +147,7 @@ Until that artifact is ready, the repository should be read as a public research
 
 ## Additional Materials
 
-The most important pages are listed above. More public-safe notes are available in the docs folder.
+The most important pages are listed above. More public-safe notes are available below.
 
 <details>
 <summary>Show all public materials</summary>
