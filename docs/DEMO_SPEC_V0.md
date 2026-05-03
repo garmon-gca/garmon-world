@@ -2,7 +2,11 @@
 
 Status: public-safe specification, not a runnable demo.
 
-This specification describes a future reviewable demo artifact. It is not an interactive product demo and does not provide user interaction with Garmon.
+This specification describes a future reviewable demo artifact.
+
+It is not an interactive product demo.
+
+It does not provide user interaction with Garmon.
 
 This document turns the first demo idea into a concrete review target.
 
@@ -12,7 +16,7 @@ For a shorter first-reading version, see [One-minute example](ONE_MINUTE_EXAMPLE
 
 The demo artifact should expose the public review surface, not the private mechanism.
 
-## Demo Question
+## Demo Questions
 
 The first public demo should test one small question:
 
@@ -21,6 +25,14 @@ The first public demo should test one small question:
 After the Body Shadow work, a second useful review question is now visible:
 
 > can a public artifact show that body-contour candidates remain distinct before speech without becoming command authority?
+
+A broader Garmon direction sits behind these questions:
+
+```text
+internal state -> meaning -> choice boundary -> time/residue -> speech
+```
+
+This broader direction is not a public claim of live choice, live behavior, consciousness, life, or mature autonomy.
 
 These are engineering review questions, not broad claims about the nature of the system.
 
@@ -35,6 +47,10 @@ It may use one of two public-safe shapes:
 
 Both shapes should keep the private implementation out of the public repository.
 
+Both shapes should keep the boundary visible next to the result.
+
+The stronger first public artifact may be Shape B, because Body Shadow is the current public-safe achievement.
+
 ## Shape A: Event-Reading Artifact
 
 This shape should include:
@@ -43,7 +59,7 @@ This shape should include:
 - two close response directions;
 - one response direction used;
 - one final answer written by an LLM speech layer;
-- one public-safe summary;
+- one public-safe event reading;
 - one comparison note;
 - one limits section.
 
@@ -81,7 +97,7 @@ The demo should show why one response direction was used.
 
 It should not expose the private mechanism behind the choice.
 
-The public event reading should stay modest: it is a reviewable summary, not a fixed label and not a command.
+The public event reading should stay modest: it is a reviewable summary, not a fixed label, not a command, not memory, not behavior, and not decision truth.
 
 ## Shape B: Body-Contour Distinction Artifact
 
@@ -105,7 +121,7 @@ The useful public question is:
 
 This artifact should show body-contour distinction and its boundary side by side.
 
-It should not imply that a contour creates behavior, memory, truth, speech authority, or implementation permission.
+It should not imply that a contour creates behavior, memory, truth, speech authority, selected-result authority, runtime proof, or implementation permission.
 
 ## Expected Public Summary
 
@@ -141,7 +157,9 @@ This summary is intentionally small.
 
 It should be readable without access to private files.
 
-It should not be read as the full private path. It is only the public surface needed for review.
+It should not be read as the full private path.
+
+It is only the public surface needed for review.
 
 The demo artifact must not imply that a public event reading is memory or residue.
 
@@ -151,11 +169,42 @@ A useful comparison should show three things:
 
 - the visible event or contour set;
 - the public-safe reading attached to it;
-- the boundary that prevents the reading from becoming command, memory, behavior, truth, or final speech.
+- the boundary that prevents the reading from becoming command, memory, behavior, truth, final speech, selected-result authority, or implementation permission.
 
 For event-reading examples, the comparison should make clear whether the final answer follows a public direction rather than merely being nicer wording.
 
-For body-contour examples, the comparison should make clear whether quiet baseline, fatigue, recovery, stress, and rhythm remain distinguishable before speech.
+For body-contour examples, the comparison should make clear whether quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and rhythm remain distinguishable before speech.
+
+## Boundary To Show Next To The Result
+
+Every public artifact should keep a short boundary note close to the result.
+
+For Shape A:
+
+```text
+public event reading is not command
+response direction is not final speech
+final speech is not proof of live choice
+```
+
+For Shape B:
+
+```text
+body contour is not command
+body contour is not memory
+body contour is not behavior
+body contour is not truth
+body contour is not final speech
+```
+
+For both shapes:
+
+```text
+static/shadow evidence is not runtime proof
+public summary is not the private mechanism
+visibility is not authority
+evidence is not decision truth
+```
 
 ## What This Demo May Show
 
@@ -165,6 +214,7 @@ The demo may show:
 - a final answer that follows a response direction;
 - a clearer review surface before final text;
 - distinguishable body-contour candidates before speech;
+- preserved boundaries around command, memory, behavior, truth, and speech;
 - a starting point for technical feedback.
 
 ## What This Demo Must Not Claim
@@ -174,13 +224,19 @@ The demo must not claim:
 - a finished product;
 - a new trained language model;
 - subjective experience;
+- consciousness;
+- biological life;
 - mature autonomy;
 - general intelligence;
 - external validation;
 - access to private implementation details;
 - live interaction;
+- live choice;
+- actual selected result;
 - memory influence on choice;
-- behavior authority from body contours.
+- behavior authority from body contours;
+- speech as the source of choice;
+- runtime proof.
 
 ## Private Boundary
 
@@ -195,7 +251,11 @@ The demo must not include:
 - private evidence packages;
 - internal report filenames;
 - protected identifiers;
-- private owner paths.
+- private owner paths;
+- private schema details;
+- hidden channels;
+- private runtime traces;
+- internal configuration details.
 
 If a detail is needed only to make the result look stronger, it should stay out.
 
@@ -209,7 +269,8 @@ The demo spec is ready to become a demo artifact only if:
 - the result avoids strong claims;
 - the demo can be reviewed without private context;
 - the limits are visible next to the result;
-- the artifact shows achievement first and boundary second.
+- the artifact shows achievement first and boundary second;
+- the artifact does not imply live behavior, actual selected results, memory authority, or speech authority.
 
 ## Failure Cases
 
@@ -221,15 +282,23 @@ The demo should be treated as not ready if:
 - the public summary is too vague to review;
 - the explanation requires private internals;
 - the result sounds like a product launch;
-- the result invites stronger claims than the evidence supports.
+- the result invites stronger claims than the evidence supports;
+- the result implies live choice or actual selected results;
+- the result implies memory or residue already drives behavior;
+- the result makes final speech look like the source of choice.
 
 ## Next Public Artifacts
 
 After this specification is reviewed, the next safe artifacts could be:
 
 - a small body-contour distinction table;
-- a public-safe example summary;
+- a public-safe event-reading example summary;
 - a small comparison note;
-- a short note explaining how to read the result.
+- a short note explaining how to read the result;
+- a short limits note explaining what the result does not show.
 
 Runnable code should be added only after a separate public-safety review.
+
+## One-Line Summary
+
+Demo Spec V0 defines two small public-safe artifact shapes — event reading and body-contour distinction — so Garmon can show a reviewable pre-speech surface without exposing private internals or claiming live behavior, memory authority, actual selected results, consciousness, life, or a finished system.
