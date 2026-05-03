@@ -2,7 +2,9 @@
 
 Garmon World is in an early public research-preview stage.
 
-The best contribution right now is calm technical feedback on the public review surface.
+The best contribution right now is calm technical feedback on the public review surface: wording, boundaries, reviewability, and clarity.
+
+This repository is not looking for private implementation review through public GitHub issues. It is meant to keep the public surface understandable, modest, and safe.
 
 ## Useful Contributions
 
@@ -14,9 +16,11 @@ Helpful contributions include:
 - suggestions for a minimal body-contour artifact;
 - suggestions for a later event-reading demo artifact;
 - evaluation ideas for Body Shadow / contour distinction;
+- feedback on the boundary between internal state, meaning, memory, choice, behavior, truth, and speech;
+- feedback on whether public claims sound too strong or too vague;
 - references to relevant public work.
 
-## Before Opening An Issue
+## Before Opening an Issue
 
 Please read:
 
@@ -43,6 +47,8 @@ Examples:
 
 > The boundary between body contour and command authority is clear here, but less clear in this paragraph: [...].
 
+> The README says "choice boundary"; it may help to clarify that this is not a public claim of live choice.
+
 ## Please Avoid
 
 Please avoid:
@@ -54,7 +60,10 @@ Please avoid:
 - asking for exact private implementation details;
 - asking for internal report names or protected hashes;
 - treating static/shadow evidence as live behavior;
+- treating memory or residue as active live authority;
+- treating a choice boundary as an actual selected result;
 - framing the project as a finished product;
+- framing Garmon as conscious, alive, or maturely autonomous;
 - pushing for strong claims before a public artifact exists.
 
 ## Pull Requests
@@ -69,6 +78,8 @@ Good pull requests should improve clarity without exposing private mechanisms.
 
 They should not turn static/shadow evidence into live behavior claims.
 
+They should not turn internal state, memory, or speech into claims of command authority, decision truth, or mature autonomy.
+
 ## Tone
 
 The desired tone is:
@@ -79,4 +90,6 @@ The desired tone is:
 - low-pressure;
 - honest about limits.
 
-The goal is not hype. The goal is better review of a real public-safe achievement: body-contour distinction before speech.
+The goal is not hype.
+
+The goal is better review of a real public-safe achievement: body-contour distinction before speech, with clear boundaries around state, meaning, memory, choice, behavior, truth, and speech.
