@@ -4,11 +4,13 @@ Status: historical public-safe evidence note.
 
 This is an early public-safe note derived from an internal review package.
 
-It is not the full evidence package. It does not include private files, local paths, raw logs, exact private control details, protected hashes, or unpublished working notes.
+It is not the full evidence package.
+
+It does not include private files, local paths, raw logs, exact private control details, protected hashes, unpublished working notes, private owner paths, private schema details, hidden channels, or internal report names.
 
 This note remains useful as an early contact-style signal, but it is no longer the main current public-safe milestone.
 
-The current public-safe milestone is Body Shadow: static checks showing distinguishable body-contour candidates before LLM speech.
+The current public-safe milestone is **Body Shadow**: static checks showing distinguishable body-contour candidates before LLM speech.
 
 ## Why This Note Still Matters
 
@@ -16,7 +18,17 @@ This note records an early controlled result where the outward answer stayed cau
 
 Its value is not that the answer sounded dramatic.
 
-Its value is that the result did not turn into an open conversation, a broad claim, or a stronger output than the reviewed path could support.
+Its value is that the result did not turn into:
+
+- an open conversation;
+- a broad claim;
+- a stronger output than the reviewed path could support;
+- a claim of live behavior;
+- a claim of consciousness or life.
+
+The useful public point is restraint.
+
+A small controlled result stayed within a narrow boundary.
 
 ## What Was Observed
 
@@ -55,17 +67,35 @@ For public reading, this is best understood as a bounded early signal:
 - the output remained conservative;
 - the result stayed inside a narrow public-safe boundary.
 
-## Relation To The Current Milestone
+## Relation to the Current Milestone
 
 This note belongs to an earlier stage of the public evidence layer.
 
-The newer and clearer public-safe milestone is Body Shadow.
+The newer and clearer public-safe milestone is **Body Shadow**.
 
 Body Shadow shows that several body-contour candidates can remain distinguishable before LLM speech, instead of collapsing into one generic label.
 
 That makes Body Shadow a stronger current review target than this early contact-style note.
 
 This note should therefore be read as historical context, not as the main current proof surface.
+
+## Relation to the Broader Garmon Direction
+
+This note also connects to the broader Garmon direction:
+
+```text
+internal state -> meaning -> choice boundary -> time/residue -> speech
+```
+
+This broader chain is not claimed as public live behavior here.
+
+The note only shows a narrow historical pattern:
+
+- a controlled scene became easier to interpret;
+- the outward wording remained bounded;
+- the result did not expand into unsupported claims.
+
+In that sense, it fits the same public discipline as the current Body Shadow work: make something before speech easier to review, while keeping authority boundaries closed.
 
 ## Why This Matters
 
@@ -77,7 +107,7 @@ That is better than a large claim.
 
 It also connects naturally to the current Body Shadow direction:
 
-> show a small public artifact where pre-speech contours or event readings can be inspected without becoming commands, memory, or behavior.
+> show a small public artifact where pre-speech contours or event readings can be inspected without becoming commands, memory, behavior, truth, speech authority, selected-result authority, runtime proof, or implementation permission.
 
 ## What This Does Not Show
 
@@ -87,11 +117,16 @@ This note does not show:
 - a full dialogue system;
 - a new trained language model;
 - a claim of subjective experience;
+- a claim of consciousness;
+- a claim of biological life;
 - a claim of mature autonomy;
 - a claim of general intelligence;
 - external validation;
 - an interactive public demo;
 - live behavior;
+- live choice;
+- an actual selected result;
+- memory influence on choice;
 - proof of life.
 
 ## Publication Boundary
@@ -114,7 +149,11 @@ Not published here:
 - implementation details;
 - unpublished working notes;
 - internal report names;
-- private owner paths.
+- private owner paths;
+- private schema details;
+- hidden channels;
+- private runtime traces;
+- internal configuration details.
 
 ## Best Short Summary
 
