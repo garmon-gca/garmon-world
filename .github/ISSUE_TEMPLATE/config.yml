@@ -1,5 +1,10 @@
 blank_issues_enabled: false
+
 contact_links:
   - name: Read the public boundaries first
     url: https://github.com/garmon-gca/garmon-world/blob/main/docs/PUBLIC_BOUNDARIES.md
     about: Please read this before opening an issue.
+
+  - name: Review questions
+    url: https://github.com/garmon-gca/garmon-world/blob/main/docs/REVIEW_QUESTIONS.md
+    about: Use these questions if you want to give calm technical feedback on Garmon World.
