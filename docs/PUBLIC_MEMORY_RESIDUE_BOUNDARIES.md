@@ -1,51 +1,121 @@
 # Public Memory and Residue Boundaries
 
-Status:
-This is a public-facing explanation of memory and residue boundaries. It does not publish private implementation details.
+Status: public-facing explanation.
+
+This page explains how Garmon treats memory, residue, trace, and past influence at the public level.
+
+It does not publish private implementation details.
+
+## Core Boundary
+
+Garmon treats memory as trace, not as a hidden motor.
+
+The past may matter.
+
+A previous event may leave caution, fatigue, trust, recovery, resistance, or changed sensitivity.
+
+But the past must not choose instead of the present.
+
+A lawful memory direction looks like this:
+
+```text
+past event -> trace -> changed sensitivity -> present meaning
+```
+
+It must not become this:
+
+```text
+past event -> hidden command -> current result
+```
+
+This distinction is central to Garmon.
+
+Without trace, a system begins too flat.
+
+If memory becomes a second chooser, the system is no longer one organism.
 
 ## Why This Page Exists
 
-Garmon studies body-born meaning before LLM speech.
+Garmon studies answer origin before speech.
 
-That does not mean every reaction becomes memory.
+That includes internal state, body contour, meaning, choice boundary, trace, and speech.
 
-This boundary is a positive result: Garmon does not inflate every reaction, diagnostic trace, warning, synthetic case, or public artifact into lived memory.
+But not every mark left by a system is memory.
 
-The goal is to keep the public story honest: body-born meaning can be studied without turning every trace into biography.
+A reaction is not automatically memory.
 
-In Garmon’s broader working direction, memory should be treated carefully:
+A diagnostic after-effect is not automatically residue.
 
-> memory or residue may become a trace of what happened, but it should not become a hidden motor of behavior.
+A public artifact is not biography.
 
-## Public Boundary
+A static check is not lived experience.
 
-A reaction is not memory.
+A report is not the past becoming part of the system.
 
-A diagnostic after-effect is not memory.
+This page exists to keep the public story honest:
 
-A tail or remaining after-effect is not residue.
+> Garmon may study body-born meaning and body-contour distinction without turning every visible trace into lived memory.
 
-A warning from a human is not lived memory.
+The memory boundary is not a weakness.
 
-A sandboxed or synthetic case is not biography.
+It is part of the architecture.
 
-An authored prior is not lived learning.
+## Memory as Trace
 
-A static/shadow check is not lived experience.
+In Garmon, memory should be understood carefully.
 
-A public artifact is not memory.
+Memory is not only stored text.
 
-A report is not memory.
+Memory is also not a magic proof of continuity.
 
-A visible trace is not automatically experience.
+The useful public idea is trace.
 
-A stored note is not automatically lived residue.
+A trace means that something from a past event may change how a future event is met.
 
-A review surface is not memory authority.
+It may change sensitivity.
 
-## What Memory/Residue Should Not Become
+It may add caution.
 
-Public Garmon materials should avoid framing memory or residue as:
+It may support recovery.
+
+It may make a repeated pattern easier to notice.
+
+But trace remains below choice.
+
+Trace can participate in meaning.
+
+Trace must not become owner of meaning, chooser of result, or source of truth.
+
+Short form:
+
+```text
+past influences
+past does not rule
+```
+
+## What Memory Is Not
+
+Public Garmon materials should keep these boundaries clear:
+
+- a reaction is not memory;
+- a diagnostic after-effect is not memory;
+- a warning from a human is not lived memory;
+- a synthetic case is not biography;
+- an authored prior is not lived learning;
+- a static/shadow check is not lived experience;
+- a public artifact is not memory;
+- a report is not memory;
+- a visible trace is not automatically experience;
+- a stored note is not automatically residue;
+- a review surface is not memory authority.
+
+The goal is not to make memory smaller.
+
+The goal is to stop the wrong things from pretending to be memory.
+
+## What Memory Must Not Become
+
+Memory or residue must not be framed as:
 
 - command authority;
 - chooser authority;
@@ -58,89 +128,116 @@ Public Garmon materials should avoid framing memory or residue as:
 - proof of life;
 - proof of mature autonomy.
 
-Memory-like language should stay careful unless a specific boundary has been reviewed.
+This is the same architectural law used across Garmon:
 
-## Future Residue-Like Evidence
+```text
+participation is not power
+```
 
-Any future residue-like claim would need at least:
+Memory may participate.
 
-- evidence that an event produced a body-level shift;
-- a recovery window, not just one moment;
-- a clear distinction between tail and residue;
-- provenance;
-- a reviewable boundary between diagnostic traces and lived residue;
-- separate review before anything can influence future interpretation;
-- a clear explanation of what the residue can influence and what it cannot control.
-
-This repository does not claim that such a source is active now.
+Memory must not take power.
 
 ## Current Public Status
 
-- active body memory: not claimed;
-- lived residue source: not claimed;
-- memory influence on choice: not claimed;
-- safe application of residue: not claimed;
-- old trace replay as memory: not claimed;
-- static/shadow evidence as lived memory: not claimed;
-- public artifact as biography: not claimed;
-- residue as chooser authority: not claimed;
-- memory as hidden motor: not claimed.
+Current public materials may say:
 
-## Why This Matters
+- memory is treated as trace;
+- trace may become important for future continuity;
+- public materials preserve the boundary between trace and authority;
+- Body Shadow does not create lived memory;
+- static/shadow evidence does not create biography;
+- public artifacts do not create experience.
 
-The goal is to avoid a false biography.
+Current public materials should not claim:
 
-Garmon may study body-born meaning and body-contour distinction, but public materials should not pretend that diagnostic material is lived memory.
-
-This protects the project from a common mistake: treating every visible trace as if it were experience.
-
-The stronger public claim is narrower and cleaner:
-
-> body contours can be inspected before speech, but inspection is not memory.
-
-This matters for the broader Garmon direction as well.
-
-If memory becomes a hidden motor, it can blur the boundary between trace, influence, choice, and truth. Garmon should keep those layers separate.
+- active body memory;
+- lived residue source;
+- memory influence on live choice;
+- safe application of residue into future interpretation;
+- old trace replay as lived memory;
+- static/shadow evidence as lived memory;
+- public artifact as biography;
+- residue as chooser authority;
+- memory as hidden motor.
 
 ## Relation to Body Shadow
 
 Body Shadow shows that several body-contour candidates can remain distinguishable before speech.
 
-That is a public-safe achievement.
+This is a public-safe achievement.
 
-But Body Shadow does not turn those contours into lived memory.
+It means that the pre-speech layer becomes more inspectable.
 
-The contours remain part of the review surface, not biography, not residue, and not memory authority.
+It does not mean that those contours become lived memory.
 
-They may help make the pre-speech layer more inspectable, but inspectability is not the same as memory.
+Body Shadow is a review surface.
+
+It is not biography.
+
+It is not residue.
+
+It is not memory authority.
+
+It helps show that internal contours can be distinguished before speech, while staying below command, memory, behavior, truth, and choice authority.
 
 ## Relation to Line of Behavior
 
 Garmon studies whether a line of behavior can be organized before final speech.
 
-Memory and residue may become important for that direction in the future, but they must not be claimed too early.
+Memory and residue may become important for that direction.
 
-A line of behavior is not created by naming every trace as memory.
+But they must not be claimed too early.
 
-A safer public framing is:
+A line of behavior is not created by calling every trace memory.
+
+A safer current public chain is:
 
 ```text
 event -> body-contour distinction -> public reading -> bounded review surface
 ```
 
-A stronger future framing would require separate evidence:
+A stronger future chain would require separate evidence:
 
 ```text
 event -> body-level shift -> recovery window -> reviewed residue -> bounded future influence
 ```
 
-The second chain is not claimed as active in this repository today.
+The second chain is a future direction.
+
+It is not claimed as active in this repository today.
+
+## Future Residue-Like Evidence
+
+Any future residue-like claim would need separate review.
+
+It would need evidence that an event produced more than a one-frame reaction.
+
+At minimum, a future claim would need:
+
+- evidence that an event produced a body-level shift;
+- a recovery window, not only one moment;
+- a clear distinction between tail and residue;
+- provenance;
+- a reviewable boundary between diagnostic traces and lived residue;
+- separate review before any future influence is allowed;
+- a clear explanation of what the residue may influence;
+- a clear explanation of what the residue must not control.
+
+A future residue-like source would still remain below choice.
+
+It could change sensitivity.
+
+It could not become hidden command.
 
 ## Public Wording to Prefer
 
 Prefer:
 
-- memory as future-gated evidence;
+- memory as trace;
+- trace, not motor;
+- changed sensitivity;
+- future-gated memory evidence;
 - residue-like trace;
 - possible future influence;
 - diagnostic after-effect;
@@ -156,8 +253,56 @@ Avoid:
 - memory-driven choice;
 - the system remembers this as experience;
 - residue already drives behavior;
-- static evidence became memory.
+- static evidence became memory;
+- the public artifact became experience;
+- the system learned this as lived past.
+
+## Useful Public Explanation
+
+A clear public explanation may say:
+
+> Garmon treats memory as trace. The past may change future sensitivity, but it must not become a hidden chooser.
+
+A longer version:
+
+> In Garmon, memory is not a second center of decision. A past event may leave a trace that changes how a future event is met, but current meaning and choice boundaries must remain protected.
+
+A boundary version:
+
+> Body Shadow can make pre-speech contours visible, but visibility is not memory. A review surface is not biography.
+
+## Why This Matters
+
+The goal is to avoid a false biography.
+
+Many AI systems can sound continuous because text can imitate continuity.
+
+Garmon needs a stricter standard.
+
+A real line of behavior cannot be created by simply storing more text or naming every after-effect “memory.”
+
+If memory becomes too weak, the system begins from a flat surface every time.
+
+If memory becomes too strong, the past becomes a hidden ruler.
+
+Garmon’s public boundary is the middle path:
+
+```text
+past leaves trace
+trace changes sensitivity
+sensitivity may shape meaning
+choice remains protected
+speech remains expression
+```
+
+This keeps the project honest.
+
+It also protects the central idea: answer origin before speech should not be replaced by a memory-driven shortcut.
 
 ## One-Line Summary
 
-Publicly, Garmon treats memory and residue as future-gated evidence, not as an automatic result of reaction, diagnosis, static checks, public artifacts, or body-contour distinction.
+Publicly, Garmon treats memory and residue as future-gated trace, not as an automatic result of reaction, diagnosis, static checks, public artifacts, or body-contour distinction.
+
+The past may participate.
+
+The past must not become the owner.
