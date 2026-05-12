@@ -2,68 +2,75 @@
 
 Status: historical public-safe evidence note.
 
-This is an early public-safe note derived from an internal review package.
+This page describes an early controlled contact-style review result from an earlier stage of Garmon.
 
 It is not the full evidence package.
 
-It does not include private files, local paths, raw logs, exact private control details, protected hashes, unpublished working notes, private owner paths, private schema details, hidden channels, or internal report names.
+It does not publish private implementation details.
 
-This note remains useful as an early contact-style signal, but it is no longer the main current public-safe milestone.
+It does not expose the protected mechanism.
 
-The current public-safe milestone is **Body Shadow**: static checks showing distinguishable body-contour candidates before LLM speech.
+This note remains useful as historical context, but it is no longer the main current public-safe milestone.
 
-## Why This Note Still Matters
+The clearest current milestone is now **Body Shadow**: distinguishable body-contour candidates before final LLM speech.
 
-This note records an early controlled result where the outward answer stayed cautious and bounded.
+## Why This Note Exists
 
-Its value is not that the answer sounded dramatic.
+This note records an early controlled result where the outward answer remained cautious, bounded, and restrained.
 
-Its value is that the result did not turn into:
+The value of the note is not dramatic wording.
 
-- an open conversation;
-- a broad claim;
-- a stronger output than the reviewed path could support;
-- a claim of live behavior;
-- a claim of consciousness or life.
+The value is that the outward answer stayed inside a narrow boundary.
 
-The useful public point is restraint.
+The result did not expand into:
 
-A small controlled result stayed within a narrow boundary.
+- open conversation;
+- broad claims;
+- live behavior claims;
+- consciousness claims;
+- life claims;
+- unsupported authority.
+
+The important public point is restraint.
+
+A small controlled result remained small.
 
 ## What Was Observed
 
-A controlled one-shot internal review produced a conservative answer:
+A controlled one-shot internal review produced a conservative outward answer:
 
 > Я выбираю наблюдение. Прежде — понимание.
 
-The important public point is not drama.
+The important point is not emotional tone.
 
-The important point is restraint: the answer stayed cautious.
+The important point is boundary preservation.
 
 In the reviewed path:
 
-- the answer was not produced by a normal chat route;
-- the answer was not produced by a browser conversation;
-- the answer was not produced by an LLM call in that pass;
-- the answer stayed conservative;
-- the review did not turn into an open conversation.
+- the answer was not produced through a normal public chat route;
+- the answer was not produced through a browser conversation;
+- the outward result remained narrow;
+- the review did not become an open dialogue;
+- the wording stayed conservative rather than escalating into larger claims.
+
+This makes the note useful as an early example of bounded output.
 
 ## Later Review Addition
 
-A later controlled check added a small interpretation result:
+A later controlled review added a small interpretation phrase:
 
 > бережное присутствие без требования
 
-This means the scene could be described as safe, low-pressure presence.
+This means the scene could be described as safe low-pressure presence.
 
-The outward answer still stayed the same:
+The outward answer itself still remained:
 
 > Я выбираю наблюдение. Прежде — понимание.
 
-For public reading, this is best understood as a bounded early signal:
+For public reading, the important point is:
 
-- the scene became easier to describe;
-- the outward answer did not become more expressive;
+- the surrounding interpretation became easier to describe;
+- the outward wording did not become more dramatic;
 - the output remained conservative;
 - the result stayed inside a narrow public-safe boundary.
 
@@ -71,23 +78,23 @@ For public reading, this is best understood as a bounded early signal:
 
 This note belongs to an earlier stage of the public evidence layer.
 
-The newer and clearer public-safe milestone is **Body Shadow**.
+The clearer current public-safe milestone is now **Body Shadow**.
 
-Body Shadow shows that several body-contour candidates can remain distinguishable before LLM speech, instead of collapsing into one generic label.
+Body Shadow shows that several body-contour candidates can remain distinguishable before LLM speech instead of collapsing into one generic label.
 
-That makes Body Shadow a stronger current review target than this early contact-style note.
+That makes Body Shadow a stronger current review target than this earlier contact-style note.
 
-This note should therefore be read as historical context, not as the main current proof surface.
+This page should therefore be read as historical context, not as the main current proof surface.
 
 ## Relation to the Broader Garmon Direction
 
 This note also connects to the broader Garmon direction:
 
 ```text
-internal state -> meaning -> choice boundary -> time/residue -> speech
+state -> body contour -> meaning -> choice boundary -> trace -> speech
 ```
 
-This broader chain is not claimed as public live behavior here.
+This broader chain is not claimed here as public live behavior.
 
 The note only shows a narrow historical pattern:
 
@@ -95,70 +102,125 @@ The note only shows a narrow historical pattern:
 - the outward wording remained bounded;
 - the result did not expand into unsupported claims.
 
-In that sense, it fits the same public discipline as the current Body Shadow work: make something before speech easier to review, while keeping authority boundaries closed.
+In that sense, it follows the same public discipline as Body Shadow:
+
+> make something before speech easier to inspect while keeping authority boundaries closed.
 
 ## Why This Matters
 
-This note still gives Garmon World one useful public direction:
+This note still gives Garmon one useful public direction:
 
-> show small controlled review surfaces where the output remains bounded while the surrounding interpretation becomes easier to inspect.
+> small controlled review surfaces are more valuable than dramatic unsupported claims.
 
-That is better than a large claim.
+The note also connects naturally to the current Body Shadow direction:
 
-It also connects naturally to the current Body Shadow direction:
+> pre-speech contours or event readings may become easier to inspect while remaining below command, memory, behavior, truth, speech authority, selected-result authority, runtime proof, and implementation permission.
 
-> show a small public artifact where pre-speech contours or event readings can be inspected without becoming commands, memory, behavior, truth, speech authority, selected-result authority, runtime proof, or implementation permission.
+This is more useful for review than stronger wording.
 
 ## What This Does Not Show
 
 This note does not show:
 
 - a finished product;
-- a full dialogue system;
+- a public dialogue system;
 - a new trained language model;
-- a claim of subjective experience;
-- a claim of consciousness;
-- a claim of biological life;
-- a claim of mature autonomy;
-- a claim of general intelligence;
+- subjective experience;
+- consciousness;
+- biological life;
+- mature autonomy;
+- general intelligence;
 - external validation;
 - an interactive public demo;
 - live behavior;
 - live choice;
 - an actual selected result;
 - memory influence on choice;
+- runtime proof;
 - proof of life.
+
+These boundaries do not erase the note.
+
+They keep the note accurate.
 
 ## Publication Boundary
 
 Safe to publish:
 
-- the conservative answer;
+- the conservative outward answer;
 - the high-level interpretation phrase;
-- the fact that the run was controlled and narrow;
+- the fact that the review was controlled and narrow;
 - the limits of the result;
-- the relationship between this early note and newer Body Shadow work.
+- the relationship between this early note and later Body Shadow work.
 
 Not published here:
 
-- private file paths;
-- raw logs;
-- exact private file names;
-- private marker values;
-- protected hashes;
-- implementation details;
+- private project material;
+- raw internal logs;
+- exact private identifiers;
+- protected internal evidence material;
 - unpublished working notes;
-- internal report names;
-- private owner paths;
-- private schema details;
-- hidden channels;
-- private runtime traces;
-- internal configuration details.
+- exact private implementation details;
+- private runtime material;
+- private diagnostic material;
+- private configuration material;
+- any protected mechanism description.
+
+The public note explains the result.
+
+It does not expose the protected contour.
+
+## Public Reading Guidance
+
+This note should be read as:
+
+- a historical bounded result;
+- a small controlled review surface;
+- an example of restrained output;
+- an early signal that the outward layer could remain conservative while interpretation became easier to inspect.
+
+It should not be read as:
+
+- proof of consciousness;
+- proof of life;
+- proof of autonomy;
+- proof of live choice;
+- proof of public runtime behavior.
+
+## Relation to Speech
+
+This note also illustrates one of the public Garmon boundaries:
+
+```text
+speech expresses
+speech does not prove
+```
+
+The outward wording remained limited.
+
+The public meaning of the note comes from the preserved boundary around the wording, not from dramatic language.
+
+## Relation to Memory
+
+This note does not imply active memory authority.
+
+It does not claim:
+
+- body memory;
+- residue-driven behavior;
+- memory influence on choice;
+- lived biography.
+
+The note remains below those claims.
 
 ## Best Short Summary
 
-Garmon has an early controlled contact-style note that can be safely summarized this way: the output stayed conservative, a later review made the scene easier to describe as safe low-pressure presence, and the result remained bounded.
+Garmon has an early controlled contact-style note that can be summarized this way:
+
+> the outward answer stayed conservative, a later review made the scene easier to describe as safe low-pressure presence, and the result remained bounded.
 
 This note is useful historical context.
 
-The current public-safe milestone is now Body Shadow: distinguishable pre-speech body contours with the boundary preserved.
+The clearer current public-safe milestone is now Body Shadow:
+
+> distinguishable pre-speech body contours with the boundary preserved.
