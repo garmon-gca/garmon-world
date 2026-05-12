@@ -202,8 +202,8 @@ It becomes weaker when they are mixed.
 
 Check that public materials include none of the following:
 
-- private workbench files;
-- raw logs;
+- private project material;
+- raw internal logs;
 - local machine paths;
 - credentials;
 - tokens;
@@ -211,19 +211,14 @@ Check that public materials include none of the following:
 - private headers;
 - environment variables;
 - unpublished working notes;
-- exact private control details;
-- internal report filenames;
-- protected hashes;
-- private owner paths;
-- private schema details;
-- hidden channels;
-- private runtime traces;
-- internal configuration details;
-- hidden prompts;
-- private service topology;
-- private runtime or deployment instructions;
-- private test outputs;
-- private implementation structures presented as public mechanism.
+- exact private implementation details;
+- protected internal identifiers;
+- protected internal evidence material;
+- private runtime material;
+- private diagnostic material;
+- private configuration material;
+- private review artifacts;
+- any private mechanism description that would allow reconstruction of protected internal work.
 
 If any of these appear, remove or replace them with a public-safe summary.
 
