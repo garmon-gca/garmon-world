@@ -14,7 +14,7 @@ This repository should contain only public-safe material:
 - public-safe evidence notes;
 - documentation-level explanations.
 
-It must not publish private project material, private implementation details, raw internal traces, credentials, runtime internals, or protected working notes.
+It must not publish private project material, private implementation details, raw internal material, credentials, or protected working notes.
 
 ## Public Boundary Principle
 
@@ -22,7 +22,7 @@ Garmon studies the order in which an artificial answer may receive an origin bef
 
 That idea can be discussed publicly.
 
-The private working contour must not be exposed as public mechanism.
+The protected working contour must not be exposed as public mechanism.
 
 A public explanation should show the principle, not reveal protected internals.
 
@@ -32,7 +32,7 @@ A public document may describe the layered order:
 state -> body contour -> meaning -> choice boundary -> trace -> speech
 ```
 
-But it must not expose private files, local paths, raw logs, protected internal reports, hidden channels, configuration details, runtime traces, or exact implementation structures.
+But it must not expose private project material, local paths, raw internal logs, protected internal identifiers, private configuration material, private runtime material, or exact implementation details.
 
 The public surface should be strong, understandable, and reviewable without becoming a technical leak.
 
@@ -40,8 +40,8 @@ The public surface should be strong, understandable, and reviewable without beco
 
 Please do not open issues, pull requests, comments, discussions, or attachments containing:
 
-- private files;
-- raw logs;
+- private project material;
+- raw internal logs;
 - local machine paths;
 - credentials;
 - tokens;
@@ -50,17 +50,13 @@ Please do not open issues, pull requests, comments, discussions, or attachments 
 - environment variables;
 - unpublished working notes;
 - exact private implementation details;
-- internal report filenames;
-- protected hashes;
-- private owner paths;
-- private schema details;
-- hidden channels;
-- private runtime traces;
-- internal configuration details;
-- private prompts or private operating instructions;
-- unpublished architectural handoffs;
-- private test outputs;
-- private runtime or service names when they reveal protected structure.
+- protected internal identifiers;
+- protected internal evidence material;
+- private runtime material;
+- private diagnostic material;
+- private configuration material;
+- private review artifacts;
+- any private mechanism description that would allow reconstruction of the closed contour.
 
 If a concern requires private context, do not paste the private material into a public GitHub issue.
 
@@ -72,7 +68,7 @@ Good public form:
 
 Bad public form:
 
-> Here is the private file path, raw log, internal report name, and exact mechanism that caused the issue.
+> Here is private material and the exact mechanism that caused the issue.
 
 ## Reporting a Public-Safety Concern
 
