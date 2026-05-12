@@ -1,17 +1,26 @@
 # Public Engineering Contracts
 
-Status:
-This is a public-facing explanation of engineering boundaries. It does not publish private implementation details.
+Status: public-facing explanation.
+
+This page explains the public engineering boundaries of Garmon.
+
+It does not publish private implementation details.
 
 ## Why This Page Exists
 
-Garmon uses the phrase **body-born meaning before LLM speech**.
+Garmon studies answer origin before speech.
 
-This page explains what that phrase is allowed to mean publicly, what has become inspectable in the public layer, and what must not be implied.
+The public idea can be stated simply:
 
-The goal is to make Garmon easier to review without exposing private mechanisms or overstating what the current public evidence shows.
+> an artificial answer may have a path before it becomes final words.
 
-## Public Model
+That path should not collapse into one text-generation step.
+
+This page defines the public engineering contracts that keep the public explanation clear: state, body contour, meaning, choice boundary, trace, evidence, and speech should remain distinguishable.
+
+The goal is to make Garmon easier to review without exposing private mechanisms and without giving any layer more authority than it has.
+
+## Core Public Model
 
 Use this public shape for the general Garmon direction:
 
@@ -19,111 +28,214 @@ Use this public shape for the general Garmon direction:
 event -> public event reading -> response direction -> LLM speech -> final answer
 ```
 
-After the Body Shadow work, one more public-safe review shape is visible:
+A broader public research frame may be described as:
 
 ```text
-body contour -> meaning candidate -> passive context -> boundary
+state -> body contour -> meaning -> choice boundary -> trace -> speech
 ```
 
-A broader working direction behind Garmon can be described carefully as:
+This means:
 
-```text
-internal state -> meaning -> choice boundary -> time/residue -> speech
-```
-
-This broader direction is not a public claim of live choice, live behavior, consciousness, life, or mature autonomy.
-
-It means that Garmon studies the path before final speech and tries to keep state, meaning, memory, choice, truth, behavior, and speech from collapsing into one text-generation step.
+- the event is not treated as plain text only;
+- internal state may shape how the event is read;
+- body contour gives the event internal weight;
+- meaning appears before final wording;
+- the choice boundary protects the place where one path may become result;
+- trace may preserve past influence without becoming command;
+- speech expresses the path in human language.
 
 The private implementation is not published here.
 
 The public review surface is intentionally smaller than the private system.
 
+## Main Engineering Law
+
+The central law is:
+
+```text
+participation is not power
+```
+
+A layer may participate in answer formation without becoming the owner of the answer.
+
+This is the core public boundary:
+
+- state participates, but does not command;
+- body contour participates, but does not become behavior;
+- meaning participates, but does not become selected result;
+- trace participates, but does not become hidden motor;
+- observation participates, but does not become truth owner;
+- evidence participates, but does not become permission;
+- speech participates, but does not become the source of choice.
+
+This law is not a defensive disclaimer.
+
+It is part of the architecture.
+
 ## Current Public-Safe Achievement
 
 Body Shadow gives Garmon a public-safe body-contour distinction surface.
 
-Static checks can now be summarized publicly as showing that several body-contour candidates remain distinguishable before LLM speech.
+Static and shadow checks can be summarized publicly as showing that several body-contour candidates remain distinguishable before LLM speech:
 
-Quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm do not collapse into one generic label.
+- quiet baseline;
+- fatigue;
+- recovery;
+- stress;
+- mixed stress/recovery;
+- day/night rhythm.
 
-This is an achievement, not a command path.
+These contours do not collapse into one generic label.
 
-The achievement is that body-contour distinction becomes more inspectable before speech while preserving boundaries around command, memory, behavior, truth, speech authority, selected result, runtime proof, and implementation permission.
+That is an achievement.
 
-## Contracts
+It means that part of the pre-speech path becomes more inspectable.
 
-1. LLM speech comes after the pre-speech event-reading step.
-2. Event reading is not a command.
-3. Body-born meaning is not a claim of biological life, subjective experience, consciousness, or mature autonomy.
-4. A public event reading is not the private mechanism.
-5. A response direction is not final speech.
-6. Final speech is not the source of choice.
-7. Diagnostic or public summary material is not memory.
-8. Memory or residue must not become a hidden motor.
-9. A reaction, tail, warning, or diagnostic summary is not memory or lived residue.
-10. Any future residue-like claim must require recovery evidence, provenance, and separate review.
-11. Body-contour distinction is an achievement, not command authority.
-12. A Body Shadow check may show distinction without creating behavior, memory, truth, speech authority, selected-result authority, or implementation permission.
-13. Negative controls are part of the evidence: a useful check must fail when forbidden authority leaks are introduced.
-14. Visibility is not influence.
-15. Influence is not authority.
-16. Authority is not choice.
-17. Passive context is not chooser input.
-18. Choice visibility is not live choice.
-19. Choice ownership boundary is preserved.
-20. Behavior requires a selected result; context alone does not create behavior.
-21. A pre-selected result boundary candidate is not an actual selected result.
-22. A public-safe capsule is an outward container, not the organism, not memory, not truth, and not the chooser.
-23. Reports, reviews, helper results, and checkpoints can support evidence, but they do not open implementation.
-24. Evidence is not decision truth.
-25. Public evidence notes are not final proof.
-26. Static/shadow evidence is not runtime proof.
-27. Public artifacts must remain small, bounded, and reproducible.
-28. The project does not claim general intelligence, subjective experience, biological life, mature autonomy, or external validation.
+It does not mean that body contours become command authority, behavior, memory, truth, final speech, selected-result authority, runtime proof, or implementation permission.
+
+## Static Choice Boundary Chain
+
+The public layer may also describe a closed static choice boundary chain:
+
+```text
+body contour
+-> meaning candidate
+-> passive context
+-> choice visibility
+-> choice ownership
+-> behavior boundary
+```
+
+A later public-safe update extends this passive chain to a synthetic pre-selected result boundary candidate.
+
+This marker names the door before an actual selected result.
+
+It does not open the door.
+
+Correct public meaning:
+
+```text
+boundary named
+boundary not opened
+```
+
+This is a review surface, not public live choice.
+
+## Public Engineering Contracts
+
+These contracts should be preserved across public Garmon materials.
+
+1. Final LLM speech comes after the pre-speech path.
+2. Speech is expression, not origin.
+3. Event reading is not command authority.
+4. Body-born meaning is a public high-level term for event meaning through internal state before speech.
+5. Body-born meaning is not a biological claim.
+6. Body-born meaning is not a claim of subjective experience, consciousness, life, or mature autonomy.
+7. Public event reading is not the private mechanism.
+8. Response direction is not final speech.
+9. Response direction is not selected result.
+10. Final speech is not the source of choice.
+11. Diagnostic material is not memory.
+12. Public summary material is not memory.
+13. Memory or residue must remain trace, not hidden motor.
+14. A reaction is not lived memory.
+15. A tail or after-effect is not automatically residue.
+16. A warning from a human is not lived learning.
+17. A synthetic case is not biography.
+18. Any future residue-like claim requires separate review.
+19. Any future residue-like claim requires provenance.
+20. Any future residue-like claim requires a recovery window, not only one moment.
+21. Any future residue-like claim must define what it may influence and what it must not control.
+22. Body-contour distinction is an achievement, not command authority.
+23. Body Shadow is a review surface, not live behavior.
+24. A Body Shadow check may show distinction without creating behavior.
+25. Body contour does not become memory.
+26. Body contour does not become truth.
+27. Body contour does not become final speech.
+28. Body contour does not become implementation permission.
+29. Negative controls are part of the evidence.
+30. A useful check should fail when forbidden authority leaks are introduced.
+31. Visibility is not influence.
+32. Influence is not authority.
+33. Authority is not choice.
+34. Passive context is not chooser input.
+35. Choice visibility is not live choice.
+36. Choice ownership is not transferred to passive context.
+37. Behavior requires a selected result.
+38. Context alone does not create behavior.
+39. A pre-selected result boundary candidate is not an actual selected result.
+40. A boundary marker is not the same as opening the boundary.
+41. Public-facing containers are not the organism.
+42. Public-facing summaries are not memory.
+43. Public-facing summaries are not truth.
+44. Public-facing summaries are not the chooser.
+45. Reports can support evidence.
+46. Reports do not become decision truth.
+47. Reviews can support evidence.
+48. Reviews do not open implementation.
+49. Helper results and checkpoints do not create authority.
+50. Evidence is not decision truth.
+51. Evidence is not permission.
+52. Public evidence notes are not final proof.
+53. Static/shadow evidence is not runtime proof.
+54. Static/shadow evidence is not proof of the whole theory.
+55. Public artifacts must remain small, bounded, and reviewable.
+56. Public artifacts must not reveal private mechanisms.
+57. Public artifacts must not imply live behavior unless a separate public live gate is opened.
+58. Public materials must separate supported evidence, theory, and open hypothesis.
+59. Public materials must not claim general intelligence, subjective experience, biological life, proven consciousness, mature autonomy, or external validation.
+60. Public explanations must show the principle, not expose the protected mechanism.
 
 ## What Can Be Reviewed Publicly
 
 Public review can focus on:
 
-- clarity of the framing;
-- whether the terms are understandable;
-- whether the Body Shadow achievement is understandable;
+- clarity of the main idea;
+- whether answer origin before speech is understandable;
+- whether the LLM speech layer is clearly placed after response direction;
+- whether Body Shadow is understandable;
 - whether body-contour distinction before speech is a useful review surface;
-- whether the boundary between contour and command stays clear;
-- whether the boundary between memory/residue and chooser authority stays clear;
-- whether the boundary between speech and choice stays clear;
+- whether contour and command remain separate;
+- whether meaning candidate and selected result remain separate;
+- whether memory or residue and chooser authority remain separate;
+- whether speech and choice remain separate;
+- whether evidence and decision truth remain separate;
 - whether the public example is fair;
-- whether claims are too strong;
+- whether claims sound too strong;
+- whether claims sound too defensive;
 - what a minimal public artifact should show;
 - what wording should be simplified before broader sharing.
 
+The best review improves clarity without asking for private implementation disclosure.
+
 ## What Is Not Public
 
-This page lists categories only, not exact files or paths.
+This page lists public-safe categories only, not exact private files, names, paths, structures, or mechanisms.
 
 The public repository should not include:
 
-- private source code paths;
-- raw logs;
+- private project material;
+- raw internal logs;
+- local machine paths;
 - credentials;
 - tokens;
+- cookies;
 - private headers;
 - environment variables;
-- hidden variables;
-- exact control rules;
-- private run data;
-- internal journal paths;
-- observer internals;
-- persistence implementation;
-- unpublished evidence packages;
-- internal report filenames;
-- protected hashes;
-- private owner paths;
-- private schema details;
-- hidden channels;
-- private runtime traces;
-- internal configuration details.
+- protected internal identifiers;
+- protected internal evidence packages;
+- unpublished working notes;
+- exact private implementation details;
+- protected technical structures;
+- private configuration details;
+- private runtime material;
+- private diagnostic material;
+- private review artifacts;
+- private mechanism descriptions that would allow reconstruction of the closed contour.
+
+Public material should explain the principle.
+
+It should not expose the protected mechanism.
 
 ## What This Page Does Not Claim
 
@@ -131,26 +243,38 @@ This page does not claim that:
 
 - Garmon is conscious;
 - Garmon is alive;
+- Garmon has proven subjectivity;
 - Garmon has mature autonomy;
 - Garmon has public live behavior;
 - Garmon has a public actual selected result;
+- Garmon has a public live chooser;
 - memory or residue currently drives live choice;
-- speech creates the choice;
+- speech creates choice;
 - static/shadow checks prove the whole theory;
-- public summaries reveal the private mechanism.
+- public summaries reveal the private mechanism;
+- public artifacts are a runnable public system.
+
+These boundaries should not make Garmon sound empty.
+
+They should make the public claim accurate.
 
 ## Public Wording To Preserve
 
 Prefer wording like:
 
+- answer origin before speech;
 - public-safe review surface;
 - body-contour distinction before speech;
 - pre-speech event reading;
 - response direction before final speech;
-- memory/residue as future-gated evidence;
+- LLM as speech layer;
+- memory as trace;
+- trace, not motor;
+- participation is not power;
 - visibility is not authority;
 - static/shadow evidence is not runtime proof;
-- boundary marker, not selected result.
+- boundary marker, not selected result;
+- supported evidence, theory, and open hypothesis.
 
 Avoid wording like:
 
@@ -161,8 +285,41 @@ Avoid wording like:
 - speech creates choice;
 - public proof of autonomy;
 - public proof of life;
-- selected result, unless explicitly marked as not claimed.
+- public proof of consciousness;
+- selected result, unless explicitly marked as not claimed;
+- runtime proof, unless a separate public runtime artifact exists;
+- demo, if the material is only a static artifact;
+- any wording that exposes or reconstructs protected internal structure.
+
+## Public Artifact Contract
+
+A public artifact should be:
+
+- small;
+- bounded;
+- reviewable;
+- public-safe;
+- clear about what it shows;
+- clear about what it does not show;
+- free of private implementation details;
+- free of raw internal logs;
+- free of local paths;
+- free of protected internal identifiers;
+- free of private configuration;
+- careful around choice, memory, speech, and authority.
+
+A good first artifact may show body-contour distinction before speech.
+
+It should not pretend to be a full public live demo.
 
 ## One-Line Summary
 
-The public repository shows the review surface, not the private mechanism: body contours can be inspected before speech without becoming command, memory, behavior, truth, speech authority, selected-result authority, runtime proof, or implementation permission.
+The public repository shows the review surface, not the private mechanism.
+
+Body contours can be inspected before speech without becoming command, memory, behavior, truth, speech authority, selected-result authority, runtime proof, or implementation permission.
+
+The engineering law is simple:
+
+```text
+participation is not power
+```
