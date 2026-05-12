@@ -1,159 +1,256 @@
 # Roadmap
 
-This roadmap is intentionally small.
+This roadmap is intentionally narrow.
 
-It separates three things:
+Its purpose is not to promise a finished system.
 
-- what Garmon has already made inspectable in public-safe form;
-- what still needs a small public artifact before broader review;
+Its purpose is to separate:
+
+- what has already become inspectable in public-safe form;
+- what still needs a small reviewable artifact;
 - what belongs to future work and should not be claimed too early.
 
-Garmon is a developing research prototype. The roadmap should keep the public surface useful without turning static/shadow evidence into claims of live behavior, consciousness, life, or mature autonomy.
+Garmon is a developing research prototype.
+
+The roadmap should keep the public surface useful without turning static/shadow evidence into claims of live behavior, consciousness, life, or mature autonomy.
+
+## Current Public Direction
+
+The central public direction is:
+
+```text
+state -> body contour -> meaning -> choice boundary -> trace -> speech
+```
+
+This direction is not a public claim of live choice.
+
+It is a way to study answer origin before speech while preserving boundaries between state, meaning, memory, choice, behavior, truth, evidence, and speech.
+
+The current public-safe achievement is Body Shadow:
+
+> distinguishable body-contour candidates before final LLM speech.
 
 ## Step 1: Public Entry Point
 
-- Create a clean public repository.
-- Explain the project in careful public language.
-- Publish boundaries and review questions.
-- Make clear that Garmon is a research preview, not a finished product or public demo.
-- Keep private implementation details out of the repository.
+Goals:
 
-Status: done.
+- create a clean public repository;
+- explain Garmon in careful public language;
+- establish public boundaries;
+- establish review questions;
+- make clear that Garmon is a research preview, not a finished product;
+- keep private implementation details out of the repository.
 
-## Step 2: Public Research Preview and Current Status
+Status: completed.
 
-- Explain body-born meaning before LLM speech.
-- Explain that Garmon studies the path before final text, not only the final answer.
-- Publish the current public-safe status.
-- Publish Body Shadow / body-contour distinction as the first achievement-first evidence layer.
-- Keep the repository clear that this stage is not an interactive demo.
-- Keep private internals out of the public layer.
-- Define what can be summarized safely.
-- Define what the public summaries do and do not show.
-- Preserve the boundary between internal state, meaning, memory, behavior, truth, and speech.
+Result:
+
+- public-facing repository exists;
+- public-safe terminology exists;
+- review surface exists;
+- boundaries are visible;
+- the project can be discussed publicly without exposing the protected mechanism.
+
+## Step 2: Public Research Preview
+
+Goals:
+
+- explain answer origin before speech;
+- explain body-born meaning before LLM speech;
+- explain the pre-speech layer;
+- explain Body Shadow as the first public-safe achievement;
+- explain the static choice boundary chain;
+- explain the synthetic pre-selected result boundary candidate;
+- explain memory as trace rather than hidden motor;
+- explain speech as expression layer rather than source of choice;
+- keep supported evidence, theory, and open hypothesis separate.
 
 Status: active.
 
+Current public-safe achievement:
+
+- body-contour distinction before speech;
+- static/shadow review surface;
+- bounded static choice boundary chain;
+- synthetic pre-selected result boundary candidate;
+- preserved authority boundaries.
+
 ## Step 3: First Reviewable Public Artifact
 
-The first artifact does not have to be a chat demo.
+The first artifact does not need to be a chat demo.
 
-A useful first artifact may be a small body-contour distinction artifact showing that quiet baseline, fatigue, recovery, stress, mixed stress/recovery, and day/night rhythm remain distinguishable before speech.
+The strongest current direction is a small body-contour distinction artifact.
 
-It should include:
+The artifact should show that contours remain distinguishable before speech.
 
-- a small public contour set;
+Public-safe examples:
+
+- quiet baseline;
+- fatigue;
+- recovery;
+- stress;
+- mixed stress/recovery;
+- night/downshift;
+- day/wake support.
+
+The artifact should include:
+
+- a small contour set;
 - public-safe readings;
 - a clear comparison;
 - visible limits;
-- no private implementation details;
-- no raw logs;
-- no local paths;
-- no runtime internals;
-- no claim of live choice or actual selected results.
+- a visible boundary note;
+- a short “does not prove” section.
 
-The goal is to make the pre-speech layer easier to review, not to claim a finished system.
+The artifact should avoid:
 
-## Step 4: Event-Reading Demo Artifact
+- private implementation details;
+- raw internal logs;
+- local paths;
+- protected internal identifiers;
+- private runtime material;
+- live-choice claims;
+- actual selected-result claims;
+- runtime-proof claims.
 
-After the body-contour artifact, a small event-reading artifact can show how a visible event receives a public reading before final LLM speech.
+The goal is:
 
-It should include:
+> make the pre-speech layer easier to inspect.
+
+Not:
+
+> prove a finished system.
+
+Status: next active milestone.
+
+## Step 4: Event-Reading Artifact
+
+After the body-contour artifact, a small event-reading artifact may explore meaning before speech more directly.
+
+The artifact may include:
 
 - one visible event;
-- the internal-state-shaped public reading of that event;
+- one public-safe event reading;
 - close response directions;
-- a final answer following the selected public response direction;
+- one response direction used;
+- one final answer following that direction;
 - a clear limits section.
 
-This artifact should show the difference between:
+Useful comparison:
 
 ```text
 request -> answer
 ```
 
-and:
+vs
 
 ```text
-internal state -> event reading -> response direction -> speech
+event -> reading -> response direction -> speech
 ```
 
-It should not claim live autonomy, subjective experience, or actual selected results beyond the public artifact.
+The artifact should show that a visible pre-speech step exists.
+
+It should not imply:
+
+- live autonomy;
+- live behavior;
+- actual selected result;
+- consciousness;
+- life;
+- mature autonomy.
+
+Status: future.
 
 ## Step 5: Boundary Review
 
-Before broader sharing, the public materials should be reviewed for boundary clarity.
+Before broader sharing, public materials should be reviewed for clarity and boundary accuracy.
 
-Useful review questions:
+Useful review questions include:
 
 - Is Body Shadow understandable?
 - Is body-contour distinction before speech clear?
-- Is the event-reading layer clear?
+- Is the event-reading layer understandable?
 - Is the difference between visibility and authority clear?
 - Is it clear that static/shadow evidence is not live behavior?
-- Is it clear that memory or residue is not active live authority?
-- Is it clear that speech is not the source of choice?
-- Is the public wording modest enough?
+- Is memory/trace clearly not active authority?
+- Is speech clearly not the source of choice?
+- Is the wording too strong?
+- Is the wording too defensive?
+- Is the achievement visible enough?
 
 Status: future.
 
 ## Step 6: External Review
 
-- Invite calm technical feedback.
-- Ask whether the Body Shadow and event-reading framing are understandable.
-- Ask whether the boundaries are clear enough for a new reader.
-- Improve the public artifacts based on review.
-- Keep unclear results marked as unclear.
-- Do not strengthen claims just because the framing becomes easier to explain.
+Goals:
+
+- invite calm technical feedback;
+- improve clarity after review;
+- improve artifact readability;
+- improve boundary visibility;
+- keep unsupported claims closed;
+- preserve the distinction between supported evidence, theory, and open hypothesis.
+
+Important rule:
+
+```text
+better explanation must not become stronger claim
+```
+
+The project should become easier to understand without becoming less accurate.
 
 Status: future.
 
-## Step 7: Theory and Architecture Notes
+## Step 7: Public Theory Notes
 
-Later, Garmon may publish short public-safe notes about the broader working direction behind the project.
-
-These notes should stay modest and architecture-focused.
+Later, Garmon may publish short public-safe notes about the broader direction behind the project.
 
 Possible topics:
 
 - behavior before speech;
-- internal state as a pre-speech layer;
-- memory as residue, not as a hidden motor;
-- speech as an expression layer, not the source of choice;
+- answer origin before speech;
+- internal state as pre-speech layer;
+- body-born meaning;
+- memory as trace;
+- speech as expression layer;
+- participation is not power;
 - visibility, influence, authority, and choice as separate ideas;
 - why evidence helps avoid self-deception but does not prove consciousness or life.
 
-These notes should support the public understanding of Garmon, not replace the project with abstract theory.
+These notes should support understanding of Garmon.
+
+They should not replace the project with abstract manifesto language detached from the current review surface.
 
 Status: future.
 
 ## Future Public Topics
 
-These may become public-safe documents or artifacts later:
+Possible future public-safe topics include:
 
-- public-safe capsule / speech boundary;
-- controlled implementation gate explanation;
-- memory/residue reader boundaries;
+- speech-boundary artifacts;
+- memory/trace boundaries;
 - body-time rhythm boundaries;
-- evidence/reports boundary;
+- evidence/report boundaries;
 - stronger comparison artifacts;
 - state-to-meaning examples;
 - event-reading examples;
-- recovery / fatigue / rhythm examples;
-- clearer diagrams for boundaries between state, meaning, memory, choice, behavior, truth, and speech.
+- recovery/fatigue/rhythm examples;
+- visual diagrams for state, meaning, memory, choice, behavior, truth, evidence, and speech boundaries;
+- negative-control examples;
+- clearer artifact reading guides.
 
-Each future topic should preserve the same rule:
+Every future topic should preserve the same rule:
 
-> public explanation should improve reviewability without exposing private mechanisms or overstating what has been shown.
+> public explanation should improve reviewability without exposing the protected mechanism or overstating what has been shown.
 
-## Not on the Roadmap Yet
+## Not On The Roadmap Yet
 
-The following are not on the current public roadmap:
+The following are not part of the current public roadmap:
 
 - product launch;
 - public API;
 - commercial deployment;
-- live/runtime proof;
+- public runtime proof;
 - interactive public chat demo as proof;
 - broad community promises;
 - strong claims about the nature of the system;
@@ -161,8 +258,48 @@ The following are not on the current public roadmap:
 - claims of biological life;
 - claims of mature autonomy;
 - public claims of actual selected results;
-- public claims that memory or residue already drives live behavior.
+- public claims that memory or residue already drives live behavior;
+- publication of the protected mechanism.
+
+These may become separate future questions.
+
+They are not current public milestones.
+
+## Public Roadmap Philosophy
+
+The roadmap follows one principle:
+
+```text
+show the achievement
+keep the boundary visible
+```
+
+The public surface should not sound empty.
+
+The public surface should also not claim more than the current evidence can hold.
+
+The roadmap should move:
+
+- slowly enough to preserve accuracy;
+- clearly enough to remain understandable;
+- openly enough to support review;
+- carefully enough to protect the boundary.
+
+## Current Priority
+
+The highest current public priority is:
+
+> a small inspectable body-contour distinction artifact before speech.
+
+This is currently a stronger and more honest milestone than a large interactive demo.
 
 ## One-Line Summary
 
-The current roadmap is: keep the public surface careful, show body-contour distinction before speech, build a small reviewable artifact, then gradually explain more of Garmon’s architecture without turning static/shadow evidence into claims of live behavior, consciousness, life, or finished autonomy.
+The roadmap is intentionally narrow:
+
+- show body-contour distinction before speech;
+- build a small reviewable artifact;
+- improve the public review surface;
+- gradually explain more of Garmon’s architecture;
+- preserve the boundary between inspectability and authority;
+- avoid turning static/shadow evidence into claims of live behavior, consciousness, life, or finished autonomy.
