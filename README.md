@@ -1,202 +1,184 @@
 # Garmon World
-
 **Where meaning becomes choice.**
 
-Garmon — архитектура, в которой ответ рождается до речи.
+Garmon is an architecture in which the response is born before speech.
 
-Большинство LLM-систем оценивают по финальным словам. Запрос приходит, модель генерирует ответ, ответ судят по ясности, полезности, тону и точности.
+Most LLM systems are judged by final words. A query arrives, the model generates text, and the output is evaluated for clarity, usefulness, tone, and accuracy.
 
-Garmon задаёт более глубокий вопрос:
+Garmon asks a deeper question:  
+> What happens before the response becomes words?
 
-> что происходит до того, как ответ становится словами?
+Central idea: speech is not the first layer of the system. Before speech there is a path: internal state → body contour → meaning → choice boundary → trace → expression.
 
-Центральная идея: речь — не первый слой системы. Перед речью идёт путь: внутреннее состояние → телесный контур → смысл → граница выбора → след → выражение.
-
-Компактная цепочка:
-
-```text
+Compact chain:  
+```
 body → body contour → meaning → choice boundary → trace → speech
 ```
 
-В Garmon LLM работает как слой речи. Он превращает сформированное направление в человеческий язык.
+In Garmon the LLM layer handles only speech. It turns an already formed direction into human language.
 
-Этот репозиторий содержит публичные исследовательские материалы, саммари и проверяемые границы.
+This repository contains public research materials, summaries, and verifiable boundaries.
 
-## Центральный вопрос
+## Central Question
 
-Сильный ответ сам по себе недостаточен.
+A strong answer by itself is not enough.
 
-Текст может быть точным, тёплым, умным и убедительным. Главный вопрос остаётся:
+Text can be accurate, warm, intelligent, and convincing. The main question remains:  
+> Where did this answer come from?
 
-> откуда пришёл этот ответ?
+Garmon explores a deeper order: the input signal meets the internal state, changes the body contour, gains meaning, approaches the choice boundary, leaves a trace, and only then becomes speech.
 
-Garmon исследует более глубокий порядок: входной сигнал встречает внутреннее состояние, меняет телесный контур, получает смысл, подходит к границе выбора, оставляет след и только потом становится речью.
-
-Главный сдвиг:
-
-```text
+Main shift:  
+```
 internal state → body contour → meaning → choice boundary → trace → LLM speech
 ```
 
-Цель — сделать происхождение ответа видимым и ограниченным.
+The goal is to make the origin of the response visible and bounded.
 
-## Что держит Garmon
+## What Holds Garmon
 
-Garmon держит слоёвый порядок формирования ответа.
+Garmon maintains layered order in response formation.  
+Each layer has its role and boundary.
 
-Каждый слой имеет роль и границу.
+- Internal state provides the initial background.  
+- Body contour shows how the event changes this background.  
+- Meaning reads the event against the current line.  
+- Choice boundary protects the place where one path becomes the result.  
+- Trace keeps the past without letting it rule the present.  
+- Speech expresses the path.  
+- Evidence supports the boundaries.
 
-- Внутреннее состояние даёт исходный фон.
-- Телесный контур показывает, как событие меняет этот фон.
-- Смысл читает событие относительно текущей линии.
-- Граница выбора защищает место, где один путь становится результатом.
-- След сохраняет прошлое, не давая ему править настоящим.
-- Речь выражает путь.
-- Доказательства поддерживают границы.
-
-Короткий закон:
-
-```text
+Short law:  
+```
 participation is not power
 ```
 
-Тело участвует.
-Смысл участвует.
-Память участвует.
-Наблюдение участвует.
-Речь участвует.
-Доказательства участвуют.
+Body participates.  
+Meaning participates.  
+Memory participates.  
+Observation participates.  
+Speech participates.  
+Evidence participates.
 
-Разделённость — часть архитектуры.
+Separation is part of the architecture.
 
-## Простыми словами
+## In Simple Terms
 
-Garmon исследует, что происходит до того, как LLM пишет финальный ответ.
+Garmon explores what happens before the LLM writes the final answer.
 
-В обычном чатботе запрос идёт прямо в генерацию текста. Финальный ответ может быть полезным, но шаг, на котором событие получает внутренний смысл, скрыт.
+In a regular chatbot the query goes straight into text generation. The final answer may be useful, but the step where the event gains internal meaning is hidden.
 
-Garmon исследует другой порядок.
+Garmon explores a different order.
 
-Сначала вход обрабатывается как событие. Событие встречает внутреннее состояние. Состояние даёт событию контур: напряжение, восстановление, осторожность, открытость, усталость, давление или другой внутренний вес.
+First the input is processed as an event. The event meets the internal state. The state gives the event a contour: tension, recovery, caution, openness, fatigue, pressure, or another internal weight.
 
-Из этого контура рождается направление смысла.
+From this contour a direction of meaning is born.  
+Only after that does speech begin.
 
-Только после этого начинается речь.
+In simple words:  
+> Garmon studies how the answer grows from an internal path before text.
 
-Простыми словами:
+## Body-Born Meaning
 
-> Garmon изучает, как ответ растёт из внутреннего пути до текста.
+Term **body-born meaning**:  
+> An event receives meaning through the layer of internal state before the final LLM speech.
 
-## Смысл, рождённый телом
+The system is not an empty surface. The event meets the internal background, and this meeting changes the direction of the answer.
 
-Термин **body-born meaning**:
+Body-born meaning gives the answer weight before formulation.
 
-> событие получает смысл через слой внутреннего состояния до финальной речи LLM.
+## Place of Speech
 
-Система — не пустая поверхность. Событие встречает внутренний фон, и эта встреча меняет направление ответа.
+Speech is the most visible layer.
 
-Body-born meaning даёт ответу вес до формулировки.
+Speech is the organ of expression. It makes the internal path visible. It clarifies, softens, strengthens, explains, and translates the chosen direction into language.
 
-## Место речи
+Speech expresses the path.  
 
-Речь — самый видимый слой.
-
-Речь — орган выражения. Она делает внутренний путь видимым. Она уточняет, смягчает, усиливает, объясняет и переводит выбранное направление в язык.
-
-Речь выражает путь.
-
-```text
+```
 speech expresses
 speech makes visible
 speech does not own
 ```
 
-## Память как след
+## Memory as Trace
 
 Garmon treats memory as trace.
 
-Прошлое важно. Предыдущее событие оставляет осторожность, усталость, доверие, восстановление, сопротивление или изменённую чувствительность.
+The past matters. A previous event leaves caution, fatigue, trust, recovery, resistance, or changed sensitivity.
 
-Память имеет роль:
-
-```text
+Memory has a role:  
+```
 past event → trace → changed sensitivity → present meaning
 ```
 
-Это центральное различие.
+This is the central distinction.
 
-Система без следа плоская.
-Система, в которой память становится выборщиком, перестаёт быть одним организмом.
+A system without a trace is flat.  
+A system in which memory becomes the chooser stops being one organism.
 
-## Один путь истины
+## One Path of Truth
 
-Garmon разделяет три вещи:
-
-```text
+Garmon separates three things:  
+```
 decision
 trace of decision
 story about decision
 ```
 
-Архитектура защищает один путь истины.
+The architecture protects one path of truth.  
+The goal is integrity.  
+The answer is formed along one path.
 
-Цель — целостность.
+## Why This Matters
 
-Ответ формируется по одному пути.
+Many questions of AI behavior are hidden inside the final answer.
 
-## Почему это важно
+Garmon makes visible the question:  
+> Was there a path before speech?
 
-Многие вопросы поведения ИИ скрыты в финальном ответе.
+This matters for:  
+- safer response formation  
+- long-lived assistants  
+- believable digital characters  
+- game and NPC systems  
+- human-facing AI companions  
+- robotics interfaces  
+- AI safety review  
+- studying the difference between textual behavior and behavior before text
 
-Garmon делает видимым вопрос:
-
-> был ли путь до речи?
-
-Это важно для:
-
-- более безопасного формирования ответов;
-- долгоживущих ассистентов;
-- believable цифровых персонажей;
-- игровых и NPC-систем;
-- human-facing AI companions;
-- интерфейсов с робототехникой;
-- AI safety review;
-- изучения разницы между текстовым поведением и поведением до текста.
-
-Публичная ценность — ясная поверхность для проверки пути до речи.
+Public value — a clear surface for checking the path before speech.
 
 ## One-Minute Example
 
-Приходит напряжённое сообщение.
+A tense message arrives.
 
-В Garmon-форме:
+In Garmon form:  
+- the message enters as an event  
+- the event meets the internal state  
+- the state gives the event a body contour  
+- the contour creates a direction of meaning  
+- the choice boundary protects the result  
+- the LLM speech layer writes from this direction
 
-- сообщение входит как событие;
-- событие встречает внутреннее состояние;
-- состояние даёт событию телесный контур;
-- контур создаёт направление смысла;
-- граница выбора защищает результат;
-- слой речи LLM пишет из этого направления.
+The goal is the origin of the answer before speech.
 
-Цель — происхождение ответа до речи.
+Detailed version — in [docs/ONE_MINUTE_EXAMPLE.md](docs/ONE_MINUTE_EXAMPLE.md).
 
-Подробный вариант — в [docs/ONE_MINUTE_EXAMPLE.md](docs/ONE_MINUTE_EXAMPLE.md).
+## What Is Currently Supported
 
-## Что сейчас поддержано
+Garmon is shared as a public research preview.
 
-Garmon делится как публичный исследовательский preview.
+Current evidence supports the path before speech.
 
-Текущий evidence поддерживает путь до речи.
+Static and shadow checks show that several candidate body contours remain distinguishable before LLM speech: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, day/night rhythm.
 
-Static и shadow checks показывают, что несколько кандидатов телесных контуров остаются различимыми до речи LLM: quiet baseline, fatigue, recovery, stress, mixed stress/recovery, day/night rhythm.
+These contours do not collapse into a generic label.
 
-Эти контуры не схлопываются в generic label.
-
-Публичный evidence поддерживает цепочку:
-
-```text
+Public evidence supports the chain:  
+```
 body contour → meaning candidate → passive context → choice visibility → choice ownership → behavior boundary → pre-selected result boundary candidate
 ```
 
-Текущий статус — [Public current status](docs/PUBLIC_CURRENT_STATUS.md).
+Current status — [Public current status](docs/PUBLIC_CURRENT_STATUS.md).  
 Body Shadow summary — [Public Body Shadow checks](docs/PUBLIC_BODY_SHADOW_CHECKS.md).
